@@ -19,6 +19,13 @@ module.exports = {
           pathRewrite: {
             '^/api' : '/'
           }
+      },
+      'dll':{
+          target:'http://127.0.0.1:8080/dll',
+          changeOrigin:true,
+          pathRewrite: {
+            '^/dll' : '/'
+          }
       }
     },
 
