@@ -6,7 +6,8 @@ import Axios from 'axios'
 
 Vue.prototype.$http = Axios
 
-Vue.config.productionTip = false
+// Vue.config.productionTip = false
+Vue.config.devtools = true; //这步很重要
 
 /* eslint-disable no-new */
 new Vue({

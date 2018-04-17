@@ -1,13 +1,13 @@
+import {formatDate} from './FormatDate'
+
 export default function update() {
 
-// import formatDate from './FormatDate'
-
 //初始化数据部分
-    var eastIndex = []
-    var eastTemperature = []
-    var UpdateTime;
-    var westIndex = []
-    var westTemperature = []
+    this.eastIndex = []
+    this.eastTemperature = []
+    this.UpdateTime = '';
+    this.westIndex = []
+    this.westTemperature = []
 
 //设置下标，：东线：n1~n192，西线：s1~s183
     function setEast() {
@@ -15,16 +15,18 @@ export default function update() {
         var temp;
         for(var i=1;i<193;i++){
             temp = "n" + i;
-            eastIndex.push(temp);
+            this.eastIndex.push(temp);
         }
+        return this.eastIndex;
     }
     function setWest() {
         console.log('set West.');
         var temp;
         for(var i=1;i<184;i++){
             temp = "s" + i;
-            westIndex.push(temp);
+            this.westIndex.push(temp);
         }
+        return this.westIndex;
     }
     function setEW() {
         setEast();
@@ -35,19 +37,19 @@ export default function update() {
     function getEastTemp(data) {
         eastTemperature.length = 0;
         for (var i=0;i<192;i++){
-            eastTemperature.push(data[eastIndex[i]]);
-            console.log("get EastData: " + eastTemperature[i])
+            this.eastTemperature.push(data[this.eastIndex[i]]);
+            console.log("get EastData: " + this.eastTemperature[i])
         }
-        let date = new Date(data.time).
-            UpdateTime = formatDate(date,"yyyy-MM-dd hh:mm:ss");
-        console.log(UpdateTime);
+        let date = new Date(data.time)
+        this.UpdateTime = formatDate(date,"yyyy-MM-dd hh:mm:ss");
+        console.log(this.UpdateTime);
     }
 //解析数据，从中获取到西线数据
     function getWestTemp(data) {
         // setWest();
-        westTemperature.length = 0;
+        this.westTemperature.length = 0;
         for (var i=0;i<183;i++){
-            westTemperature.push(data[westIndex[i]]);
+            this.westTemperature.push(data[this.westIndex[i]]);
         }
     }
 //整合上面两个函数，同时获取东西线数据
@@ -159,19 +161,19 @@ export default function update() {
     function showResponse(message) {
         console.log("Message>>>" + message + "<<<");
         getData(message);
-        eastTunnel.setOption({
+        this.eastTunnel.setOption({
             title:{
                 subtext: UpdateTime,
             },
             series: [{
                 // 根据名字对应到相应的系列
                 name: '温度',
-                data: eastTemperature
+                data: this.eastTemperature
             }]
         });
-        westTunnel.setOption({
+        this.westTunnel.setOption({
             title:{
-                subtext: UpdateTime,
+                subtext: this.UpdateTime,
             },
             // xAxis: {
             //     data:westIndex
@@ -179,7 +181,7 @@ export default function update() {
             series: [{
                 // 根据名字对应到相应的系列
                 name: '温度',
-                data: westTemperature
+                data: this.westTemperature
             }]
         });
     }
