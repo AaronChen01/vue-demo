@@ -1,8 +1,7 @@
 <template>
   <div id="app">
     <connect></connect>
-    <chart></chart>
-    <chart></chart>
+    <chart result=" "></chart>
 
   </div>
 </template>
