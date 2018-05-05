@@ -1,8 +1,8 @@
 <template>
     <!--<div id="mychart" style="width: 600px; height: 300px; margin: 0 auto;"></div>-->
-    <div id="echart">
+    <div id="cont2">
 
-        <button @click="createConnection">断开连接</button>
+        <button @click="createConnection">建立连接</button>
         <button @click="disConnection">断开连接</button>
         <div class="wrapper">
 
@@ -260,13 +260,19 @@
 <style>
 #eastTunnel,#westTunnel {
     /*width: 1400px;*/
-    width: 100%;
+    width: 1020px;
     height: 400px;
     text-align: center;
     margin: 0 auto;
     align-content: center;
+    background-image: url("../assets/img/bg-big.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     /*border:1px solid black;*/
     display:inline-block;
     vertical-align: middle;
 }
+    .item {
+
+    }
 </style>
