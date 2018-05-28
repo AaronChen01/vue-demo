@@ -1,0 +1,6938 @@
+[
+  {
+    "Mile": "EK10+640.5",
+    "LineSN": 560,
+    "temperature": 22.2,
+    "ID": 1
+  },
+  {
+    "Mile": "EK10+653",
+    "LineSN": 559,
+    "temperature": 24.4,
+    "ID": 2
+  },
+  {
+    "Mile": "EK10+665.5",
+    "LineSN": 558,
+    "temperature": 28.3,
+    "ID": 3
+  },
+  {
+    "Mile": "EK10+678",
+    "LineSN": 557,
+    "temperature": 21.5,
+    "ID": 4
+  },
+  {
+    "Mile": "EK10+690.5",
+    "LineSN": 556,
+    "temperature": 25.4,
+    "ID": 5
+  },
+  {
+    "Mile": "EK10+703",
+    "LineSN": 555,
+    "temperature": 29.6,
+    "ID": 6
+  },
+  {
+    "Mile": "EK10+715.5",
+    "LineSN": 554,
+    "temperature": 24.8,
+    "ID": 7
+  },
+  {
+    "Mile": "EK10+728",
+    "LineSN": 553,
+    "temperature": 24.2,
+    "ID": 8
+  },
+  {
+    "Mile": "EK10+740.5",
+    "LineSN": 552,
+    "temperature": 25.2,
+    "ID": 9
+  },
+  {
+    "Mile": "EK10+753",
+    "LineSN": 551,
+    "temperature": 22.0,
+    "ID": 10
+  },
+  {
+    "Mile": "EK10+765.5",
+    "LineSN": 550,
+    "temperature": 25.3,
+    "ID": 11
+  },
+  {
+    "Mile": "EK10+778",
+    "LineSN": 549,
+    "temperature": 26.0,
+    "ID": 12
+  },
+  {
+    "Mile": "EK10+790.5",
+    "LineSN": 548,
+    "temperature": 23.2,
+    "ID": 13
+  },
+  {
+    "Mile": "EK10+803",
+    "LineSN": 547,
+    "temperature": 24.0,
+    "ID": 14
+  },
+  {
+    "Mile": "EK10+815.5",
+    "LineSN": 546,
+    "temperature": 28.9,
+    "ID": 15
+  },
+  {
+    "Mile": "EK10+828",
+    "LineSN": 545,
+    "temperature": 22.7,
+    "ID": 16
+  },
+  {
+    "Mile": "EK10+840.5",
+    "LineSN": 544,
+    "temperature": 27.7,
+    "ID": 17
+  },
+  {
+    "Mile": "EK10+853",
+    "LineSN": 543,
+    "temperature": 28.1,
+    "ID": 18
+  },
+  {
+    "Mile": "EK10+865.5",
+    "LineSN": 542,
+    "temperature": 26.3,
+    "ID": 19
+  },
+  {
+    "Mile": "EK10+878",
+    "LineSN": 541,
+    "temperature": 25.9,
+    "ID": 20
+  },
+  {
+    "Mile": "EK10+890.5",
+    "LineSN": 530,
+    "temperature": 23.6,
+    "ID": 21
+  },
+  {
+    "Mile": "EK10+903",
+    "LineSN": 529,
+    "temperature": 21.7,
+    "ID": 22
+  },
+  {
+    "Mile": "EK10+915.5",
+    "LineSN": 528,
+    "temperature": 24.1,
+    "ID": 23
+  },
+  {
+    "Mile": "EK10+928",
+    "LineSN": 527,
+    "temperature": 28.3,
+    "ID": 24
+  },
+  {
+    "Mile": "EK10+940.5",
+    "LineSN": 526,
+    "temperature": 25.0,
+    "ID": 25
+  },
+  {
+    "Mile": "EK10+953",
+    "LineSN": 525,
+    "temperature": 24.8,
+    "ID": 26
+  },
+  {
+    "Mile": "EK10+965.5",
+    "LineSN": 524,
+    "temperature": 20.1,
+    "ID": 27
+  },
+  {
+    "Mile": "EK10+978",
+    "LineSN": 523,
+    "temperature": 24.9,
+    "ID": 28
+  },
+  {
+    "Mile": "EK10+990.5",
+    "LineSN": 522,
+    "temperature": 29.9,
+    "ID": 29
+  },
+  {
+    "Mile": "EK11+3",
+    "LineSN": 521,
+    "temperature": 22.8,
+    "ID": 30
+  },
+  {
+    "Mile": "EK11+15.5",
+    "LineSN": 520,
+    "temperature": 24.5,
+    "ID": 31
+  },
+  {
+    "Mile": "EK11+28",
+    "LineSN": 519,
+    "temperature": 26.4,
+    "ID": 32
+  },
+  {
+    "Mile": "EK11+40.5",
+    "LineSN": 518,
+    "temperature": 23.2,
+    "ID": 33
+  },
+  {
+    "Mile": "EK11+53",
+    "LineSN": 517,
+    "temperature": 25.3,
+    "ID": 34
+  },
+  {
+    "Mile": "EK11+65.5",
+    "LineSN": 516,
+    "temperature": 21.7,
+    "ID": 35
+  },
+  {
+    "Mile": "EK11+78",
+    "LineSN": 515,
+    "temperature": 23.3,
+    "ID": 36
+  },
+  {
+    "Mile": "EK11+90.5",
+    "LineSN": 514,
+    "temperature": 24.4,
+    "ID": 37
+  },
+  {
+    "Mile": "EK11+103",
+    "LineSN": 513,
+    "temperature": 23.6,
+    "ID": 38
+  },
+  {
+    "Mile": "EK11+115.5",
+    "LineSN": 512,
+    "temperature": 20.4,
+    "ID": 39
+  },
+  {
+    "Mile": "EK11+128",
+    "LineSN": 511,
+    "temperature": 24.0,
+    "ID": 40
+  },
+  {
+    "Mile": "EK11+140.5",
+    "LineSN": 500,
+    "temperature": 25.2,
+    "ID": 41
+  },
+  {
+    "Mile": "EK11+153",
+    "LineSN": 499,
+    "temperature": 20.9,
+    "ID": 42
+  },
+  {
+    "Mile": "EK11+165.5",
+    "LineSN": 498,
+    "temperature": 27.7,
+    "ID": 43
+  },
+  {
+    "Mile": "EK11+178",
+    "LineSN": 497,
+    "temperature": 22.1,
+    "ID": 44
+  },
+  {
+    "Mile": "EK11+190.5",
+    "LineSN": 496,
+    "temperature": 28.1,
+    "ID": 45
+  },
+  {
+    "Mile": "EK11+203",
+    "LineSN": 495,
+    "temperature": 29.2,
+    "ID": 46
+  },
+  {
+    "Mile": "EK11+215.5",
+    "LineSN": 494,
+    "temperature": 28.7,
+    "ID": 47
+  },
+  {
+    "Mile": "EK11+228",
+    "LineSN": 493,
+    "temperature": 23.2,
+    "ID": 48
+  },
+  {
+    "Mile": "EK11+240.5",
+    "LineSN": 492,
+    "temperature": 27.3,
+    "ID": 49
+  },
+  {
+    "Mile": "EK11+253",
+    "LineSN": 491,
+    "temperature": 29.7,
+    "ID": 50
+  },
+  {
+    "Mile": "EK11+265.5",
+    "LineSN": 490,
+    "temperature": 27.5,
+    "ID": 51
+  },
+  {
+    "Mile": "EK11+278",
+    "LineSN": 489,
+    "temperature": 27.5,
+    "ID": 52
+  },
+  {
+    "Mile": "EK11+290.5",
+    "LineSN": 488,
+    "temperature": 28.2,
+    "ID": 53
+  },
+  {
+    "Mile": "EK11+303",
+    "LineSN": 487,
+    "temperature": 26.4,
+    "ID": 54
+  },
+  {
+    "Mile": "EK11+315.5",
+    "LineSN": 486,
+    "temperature": 20.6,
+    "ID": 55
+  },
+  {
+    "Mile": "EK11+328",
+    "LineSN": 485,
+    "temperature": 26.2,
+    "ID": 56
+  },
+  {
+    "Mile": "EK11+340.5",
+    "LineSN": 484,
+    "temperature": 28.6,
+    "ID": 57
+  },
+  {
+    "Mile": "EK11+353",
+    "LineSN": 483,
+    "temperature": 21.7,
+    "ID": 58
+  },
+  {
+    "Mile": "EK11+365.5",
+    "LineSN": 482,
+    "temperature": 21.8,
+    "ID": 59
+  },
+  {
+    "Mile": "EK11+378",
+    "LineSN": 481,
+    "temperature": 22.0,
+    "ID": 60
+  },
+  {
+    "Mile": "EK11+390.5",
+    "LineSN": 470,
+    "temperature": 27.0,
+    "ID": 61
+  },
+  {
+    "Mile": "EK11+403",
+    "LineSN": 469,
+    "temperature": 27.0,
+    "ID": 62
+  },
+  {
+    "Mile": "EK11+415.5",
+    "LineSN": 468,
+    "temperature": 25.6,
+    "ID": 63
+  },
+  {
+    "Mile": "EK11+428",
+    "LineSN": 467,
+    "temperature": 26.2,
+    "ID": 64
+  },
+  {
+    "Mile": "EK11+440.5",
+    "LineSN": 466,
+    "temperature": 20.2,
+    "ID": 65
+  },
+  {
+    "Mile": "EK11+453",
+    "LineSN": 465,
+    "temperature": 29.9,
+    "ID": 66
+  },
+  {
+    "Mile": "EK11+465.5",
+    "LineSN": 464,
+    "temperature": 20.4,
+    "ID": 67
+  },
+  {
+    "Mile": "EK11+478",
+    "LineSN": 463,
+    "temperature": 22.2,
+    "ID": 68
+  },
+  {
+    "Mile": "EK11+490.5",
+    "LineSN": 462,
+    "temperature": 22.6,
+    "ID": 69
+  },
+  {
+    "Mile": "EK11+503",
+    "LineSN": 461,
+    "temperature": 25.6,
+    "ID": 70
+  },
+  {
+    "Mile": "EK11+515.5",
+    "LineSN": 460,
+    "temperature": 24.4,
+    "ID": 71
+  },
+  {
+    "Mile": "EK11+528",
+    "LineSN": 459,
+    "temperature": 22.0,
+    "ID": 72
+  },
+  {
+    "Mile": "EK11+540.5",
+    "LineSN": 458,
+    "temperature": 29.2,
+    "ID": 73
+  },
+  {
+    "Mile": "EK11+553",
+    "LineSN": 457,
+    "temperature": 22.6,
+    "ID": 74
+  },
+  {
+    "Mile": "EK11+565.5",
+    "LineSN": 456,
+    "temperature": 21.6,
+    "ID": 75
+  },
+  {
+    "Mile": "EK11+578",
+    "LineSN": 455,
+    "temperature": 27.5,
+    "ID": 76
+  },
+  {
+    "Mile": "EK11+590.5",
+    "LineSN": 454,
+    "temperature": 21.9,
+    "ID": 77
+  },
+  {
+    "Mile": "EK11+603",
+    "LineSN": 453,
+    "temperature": 27.6,
+    "ID": 78
+  },
+  {
+    "Mile": "EK11+615.5",
+    "LineSN": 452,
+    "temperature": 20.6,
+    "ID": 79
+  },
+  {
+    "Mile": "EK11+628",
+    "LineSN": 451,
+    "temperature": 22.3,
+    "ID": 80
+  },
+  {
+    "Mile": "EK11+640.5",
+    "LineSN": 440,
+    "temperature": 20.2,
+    "ID": 81
+  },
+  {
+    "Mile": "EK11+653",
+    "LineSN": 439,
+    "temperature": 20.0,
+    "ID": 82
+  },
+  {
+    "Mile": "EK11+665.5",
+    "LineSN": 438,
+    "temperature": 25.5,
+    "ID": 83
+  },
+  {
+    "Mile": "EK11+678",
+    "LineSN": 437,
+    "temperature": 23.6,
+    "ID": 84
+  },
+  {
+    "Mile": "EK11+690.5",
+    "LineSN": 436,
+    "temperature": 28.5,
+    "ID": 85
+  },
+  {
+    "Mile": "EK11+703",
+    "LineSN": 435,
+    "temperature": 22.9,
+    "ID": 86
+  },
+  {
+    "Mile": "EK11+715.5",
+    "LineSN": 434,
+    "temperature": 21.0,
+    "ID": 87
+  },
+  {
+    "Mile": "EK11+728",
+    "LineSN": 433,
+    "temperature": 25.6,
+    "ID": 88
+  },
+  {
+    "Mile": "EK11+740.5",
+    "LineSN": 432,
+    "temperature": 20.0,
+    "ID": 89
+  },
+  {
+    "Mile": "EK11+753",
+    "LineSN": 431,
+    "temperature": 25.8,
+    "ID": 90
+  },
+  {
+    "Mile": "EK11+765.5",
+    "LineSN": 430,
+    "temperature": 23.0,
+    "ID": 91
+  },
+  {
+    "Mile": "EK11+778",
+    "LineSN": 429,
+    "temperature": 20.5,
+    "ID": 92
+  },
+  {
+    "Mile": "EK11+790.5",
+    "LineSN": 428,
+    "temperature": 23.7,
+    "ID": 93
+  },
+  {
+    "Mile": "EK11+803",
+    "LineSN": 427,
+    "temperature": 21.1,
+    "ID": 94
+  },
+  {
+    "Mile": "EK11+815.5",
+    "LineSN": 426,
+    "temperature": 26.3,
+    "ID": 95
+  },
+  {
+    "Mile": "EK11+828",
+    "LineSN": 425,
+    "temperature": 21.4,
+    "ID": 96
+  },
+  {
+    "Mile": "EK11+840.5",
+    "LineSN": 424,
+    "temperature": 27.7,
+    "ID": 97
+  },
+  {
+    "Mile": "EK11+853",
+    "LineSN": 423,
+    "temperature": 23.0,
+    "ID": 98
+  },
+  {
+    "Mile": "EK11+865.5",
+    "LineSN": 422,
+    "temperature": 24.8,
+    "ID": 99
+  },
+  {
+    "Mile": "EK11+878",
+    "LineSN": 421,
+    "temperature": 27.4,
+    "ID": 100
+  },
+  {
+    "Mile": "EK11+890.5",
+    "LineSN": 410,
+    "temperature": 25.1,
+    "ID": 101
+  },
+  {
+    "Mile": "EK11+903",
+    "LineSN": 409,
+    "temperature": 21.5,
+    "ID": 102
+  },
+  {
+    "Mile": "EK11+915.5",
+    "LineSN": 408,
+    "temperature": 22.7,
+    "ID": 103
+  },
+  {
+    "Mile": "EK11+928",
+    "LineSN": 407,
+    "temperature": 29.3,
+    "ID": 104
+  },
+  {
+    "Mile": "EK11+940.5",
+    "LineSN": 406,
+    "temperature": 23.2,
+    "ID": 105
+  },
+  {
+    "Mile": "EK11+953",
+    "LineSN": 405,
+    "temperature": 22.1,
+    "ID": 106
+  },
+  {
+    "Mile": "EK11+965.5",
+    "LineSN": 404,
+    "temperature": 21.9,
+    "ID": 107
+  },
+  {
+    "Mile": "EK11+978",
+    "LineSN": 403,
+    "temperature": 27.6,
+    "ID": 108
+  },
+  {
+    "Mile": "EK11+990.5",
+    "LineSN": 402,
+    "temperature": 27.3,
+    "ID": 109
+  },
+  {
+    "Mile": "EK12+3",
+    "LineSN": 401,
+    "temperature": 27.1,
+    "ID": 110
+  },
+  {
+    "Mile": "EK12+15.5",
+    "LineSN": 400,
+    "temperature": 25.8,
+    "ID": 111
+  },
+  {
+    "Mile": "EK12+28",
+    "LineSN": 399,
+    "temperature": 23.1,
+    "ID": 112
+  },
+  {
+    "Mile": "EK12+40.5",
+    "LineSN": 398,
+    "temperature": 22.3,
+    "ID": 113
+  },
+  {
+    "Mile": "EK12+53",
+    "LineSN": 397,
+    "temperature": 27.1,
+    "ID": 114
+  },
+  {
+    "Mile": "EK12+65.5",
+    "LineSN": 396,
+    "temperature": 28.1,
+    "ID": 115
+  },
+  {
+    "Mile": "EK12+78",
+    "LineSN": 395,
+    "temperature": 27.6,
+    "ID": 116
+  },
+  {
+    "Mile": "EK12+90.5",
+    "LineSN": 394,
+    "temperature": 22.8,
+    "ID": 117
+  },
+  {
+    "Mile": "EK12+103",
+    "LineSN": 393,
+    "temperature": 21.3,
+    "ID": 118
+  },
+  {
+    "Mile": "EK12+115.5",
+    "LineSN": 392,
+    "temperature": 28.7,
+    "ID": 119
+  },
+  {
+    "Mile": "EK12+128",
+    "LineSN": 391,
+    "temperature": 25.1,
+    "ID": 120
+  },
+  {
+    "Mile": "EK12+140.5",
+    "LineSN": 380,
+    "temperature": 26.7,
+    "ID": 121
+  },
+  {
+    "Mile": "EK12+153",
+    "LineSN": 379,
+    "temperature": 29.0,
+    "ID": 122
+  },
+  {
+    "Mile": "EK12+165.5",
+    "LineSN": 378,
+    "temperature": 24.1,
+    "ID": 123
+  },
+  {
+    "Mile": "EK12+178",
+    "LineSN": 377,
+    "temperature": 26.6,
+    "ID": 124
+  },
+  {
+    "Mile": "EK12+190.5",
+    "LineSN": 376,
+    "temperature": 21.1,
+    "ID": 125
+  },
+  {
+    "Mile": "EK12+203",
+    "LineSN": 375,
+    "temperature": 21.6,
+    "ID": 126
+  },
+  {
+    "Mile": "EK12+215.5",
+    "LineSN": 374,
+    "temperature": 21.1,
+    "ID": 127
+  },
+  {
+    "Mile": "EK12+228",
+    "LineSN": 373,
+    "temperature": 22.4,
+    "ID": 128
+  },
+  {
+    "Mile": "EK12+240.5",
+    "LineSN": 372,
+    "temperature": 24.4,
+    "ID": 129
+  },
+  {
+    "Mile": "EK12+253",
+    "LineSN": 371,
+    "temperature": 25.0,
+    "ID": 130
+  },
+  {
+    "Mile": "EK12+265.5",
+    "LineSN": 370,
+    "temperature": 24.2,
+    "ID": 131
+  },
+  {
+    "Mile": "EK12+278",
+    "LineSN": 369,
+    "temperature": 22.3,
+    "ID": 132
+  },
+  {
+    "Mile": "EK12+290.5",
+    "LineSN": 368,
+    "temperature": 21.7,
+    "ID": 133
+  },
+  {
+    "Mile": "EK12+303",
+    "LineSN": 367,
+    "temperature": 26.7,
+    "ID": 134
+  },
+  {
+    "Mile": "EK12+315.5",
+    "LineSN": 366,
+    "temperature": 26.3,
+    "ID": 135
+  },
+  {
+    "Mile": "EK12+328",
+    "LineSN": 365,
+    "temperature": 25.0,
+    "ID": 136
+  },
+  {
+    "Mile": "EK12+340.5",
+    "LineSN": 364,
+    "temperature": 29.3,
+    "ID": 137
+  },
+  {
+    "Mile": "EK12+353",
+    "LineSN": 363,
+    "temperature": 24.8,
+    "ID": 138
+  },
+  {
+    "Mile": "EK12+365.5",
+    "LineSN": 362,
+    "temperature": 26.6,
+    "ID": 139
+  },
+  {
+    "Mile": "EK12+378",
+    "LineSN": 361,
+    "temperature": 26.8,
+    "ID": 140
+  },
+  {
+    "Mile": "EK12+390.5",
+    "LineSN": 350,
+    "temperature": 20.1,
+    "ID": 141
+  },
+  {
+    "Mile": "EK12+403",
+    "LineSN": 349,
+    "temperature": 25.4,
+    "ID": 142
+  },
+  {
+    "Mile": "EK12+415.5",
+    "LineSN": 348,
+    "temperature": 28.9,
+    "ID": 143
+  },
+  {
+    "Mile": "EK12+428",
+    "LineSN": 347,
+    "temperature": 20.3,
+    "ID": 144
+  },
+  {
+    "Mile": "EK12+440.5",
+    "LineSN": 346,
+    "temperature": 27.2,
+    "ID": 145
+  },
+  {
+    "Mile": "EK12+453",
+    "LineSN": 345,
+    "temperature": 21.5,
+    "ID": 146
+  },
+  {
+    "Mile": "EK12+465.5",
+    "LineSN": 344,
+    "temperature": 28.1,
+    "ID": 147
+  },
+  {
+    "Mile": "EK12+478",
+    "LineSN": 343,
+    "temperature": 23.1,
+    "ID": 148
+  },
+  {
+    "Mile": "EK12+490.5",
+    "LineSN": 342,
+    "temperature": 26.7,
+    "ID": 149
+  },
+  {
+    "Mile": "EK12+503",
+    "LineSN": 341,
+    "temperature": 24.4,
+    "ID": 150
+  },
+  {
+    "Mile": "EK12+515.5",
+    "LineSN": 340,
+    "temperature": 20.9,
+    "ID": 151
+  },
+  {
+    "Mile": "EK12+528",
+    "LineSN": 339,
+    "temperature": 27.7,
+    "ID": 152
+  },
+  {
+    "Mile": "EK12+540.5",
+    "LineSN": 338,
+    "temperature": 26.6,
+    "ID": 153
+  },
+  {
+    "Mile": "EK12+553",
+    "LineSN": 337,
+    "temperature": 26.6,
+    "ID": 154
+  },
+  {
+    "Mile": "EK12+565.5",
+    "LineSN": 336,
+    "temperature": 23.8,
+    "ID": 155
+  },
+  {
+    "Mile": "EK12+578",
+    "LineSN": 335,
+    "temperature": 20.2,
+    "ID": 156
+  },
+  {
+    "Mile": "EK12+590.5",
+    "LineSN": 334,
+    "temperature": 24.8,
+    "ID": 157
+  },
+  {
+    "Mile": "EK12+603",
+    "LineSN": 333,
+    "temperature": 26.9,
+    "ID": 158
+  },
+  {
+    "Mile": "EK12+615.5",
+    "LineSN": 332,
+    "temperature": 20.3,
+    "ID": 159
+  },
+  {
+    "Mile": "EK12+628",
+    "LineSN": 331,
+    "temperature": 24.1,
+    "ID": 160
+  },
+  {
+    "Mile": "EK12+640.5",
+    "LineSN": 320,
+    "temperature": 24.6,
+    "ID": 161
+  },
+  {
+    "Mile": "EK12+653",
+    "LineSN": 319,
+    "temperature": 25.4,
+    "ID": 162
+  },
+  {
+    "Mile": "EK12+665.5",
+    "LineSN": 318,
+    "temperature": 20.0,
+    "ID": 163
+  },
+  {
+    "Mile": "EK12+678",
+    "LineSN": 317,
+    "temperature": 24.8,
+    "ID": 164
+  },
+  {
+    "Mile": "EK12+690.5",
+    "LineSN": 316,
+    "temperature": 21.8,
+    "ID": 165
+  },
+  {
+    "Mile": "EK12+703",
+    "LineSN": 315,
+    "temperature": 20.7,
+    "ID": 166
+  },
+  {
+    "Mile": "EK12+715.5",
+    "LineSN": 314,
+    "temperature": 23.1,
+    "ID": 167
+  },
+  {
+    "Mile": "EK12+728",
+    "LineSN": 313,
+    "temperature": 23.5,
+    "ID": 168
+  },
+  {
+    "Mile": "EK12+740.5",
+    "LineSN": 312,
+    "temperature": 22.6,
+    "ID": 169
+  },
+  {
+    "Mile": "EK12+753",
+    "LineSN": 311,
+    "temperature": 29.5,
+    "ID": 170
+  },
+  {
+    "Mile": "EK12+765.5",
+    "LineSN": 310,
+    "temperature": 23.0,
+    "ID": 171
+  },
+  {
+    "Mile": "EK12+778",
+    "LineSN": 309,
+    "temperature": 21.2,
+    "ID": 172
+  },
+  {
+    "Mile": "EK12+790.5",
+    "LineSN": 308,
+    "temperature": 21.1,
+    "ID": 173
+  },
+  {
+    "Mile": "EK12+803",
+    "LineSN": 307,
+    "temperature": 20.3,
+    "ID": 174
+  },
+  {
+    "Mile": "EK12+815.5",
+    "LineSN": 306,
+    "temperature": 28.5,
+    "ID": 175
+  },
+  {
+    "Mile": "EK12+828",
+    "LineSN": 305,
+    "temperature": 21.8,
+    "ID": 176
+  },
+  {
+    "Mile": "EK12+840.5",
+    "LineSN": 304,
+    "temperature": 20.6,
+    "ID": 177
+  },
+  {
+    "Mile": "EK12+853",
+    "LineSN": 303,
+    "temperature": 28.6,
+    "ID": 178
+  },
+  {
+    "Mile": "EK12+865.5",
+    "LineSN": 302,
+    "temperature": 27.1,
+    "ID": 179
+  },
+  {
+    "Mile": "EK12+878",
+    "LineSN": 301,
+    "temperature": 22.7,
+    "ID": 180
+  },
+  {
+    "Mile": "EK12+890.5",
+    "LineSN": 290,
+    "temperature": 23.0,
+    "ID": 181
+  },
+  {
+    "Mile": "EK12+903",
+    "LineSN": 289,
+    "temperature": 26.0,
+    "ID": 182
+  },
+  {
+    "Mile": "EK12+915.5",
+    "LineSN": 288,
+    "temperature": 25.1,
+    "ID": 183
+  },
+  {
+    "Mile": "EK12+928",
+    "LineSN": 287,
+    "temperature": 29.8,
+    "ID": 184
+  },
+  {
+    "Mile": "EK12+940.5",
+    "LineSN": 286,
+    "temperature": 25.7,
+    "ID": 185
+  },
+  {
+    "Mile": "EK12+953",
+    "LineSN": 285,
+    "temperature": 22.1,
+    "ID": 186
+  },
+  {
+    "Mile": "EK12+965.5",
+    "LineSN": 284,
+    "temperature": 24.5,
+    "ID": 187
+  },
+  {
+    "Mile": "EK12+978",
+    "LineSN": 283,
+    "temperature": 29.9,
+    "ID": 188
+  },
+  {
+    "Mile": "EK12+990.5",
+    "LineSN": 282,
+    "temperature": 28.0,
+    "ID": 189
+  },
+  {
+    "Mile": "EK13+3",
+    "LineSN": 281,
+    "temperature": 21.6,
+    "ID": 190
+  },
+  {
+    "Mile": "EK13+15.5",
+    "LineSN": 280,
+    "temperature": 29.0,
+    "ID": 191
+  },
+  {
+    "Mile": "EK13+28",
+    "LineSN": 279,
+    "temperature": 23.2,
+    "ID": 192
+  },
+  {
+    "Mile": "EK13+40.5",
+    "LineSN": 278,
+    "temperature": 27.1,
+    "ID": 193
+  },
+  {
+    "Mile": "EK13+53",
+    "LineSN": 277,
+    "temperature": 23.0,
+    "ID": 194
+  },
+  {
+    "Mile": "EK13+65.5",
+    "LineSN": 276,
+    "temperature": 23.9,
+    "ID": 195
+  },
+  {
+    "Mile": "EK13+78",
+    "LineSN": 275,
+    "temperature": 26.6,
+    "ID": 196
+  },
+  {
+    "Mile": "EK13+90.5",
+    "LineSN": 274,
+    "temperature": 22.2,
+    "ID": 197
+  },
+  {
+    "Mile": "EK13+103",
+    "LineSN": 273,
+    "temperature": 24.0,
+    "ID": 198
+  },
+  {
+    "Mile": "EK13+115.5",
+    "LineSN": 272,
+    "temperature": 29.1,
+    "ID": 199
+  },
+  {
+    "Mile": "EK13+128",
+    "LineSN": 271,
+    "temperature": 29.1,
+    "ID": 200
+  },
+  {
+    "Mile": "EK13+140.5",
+    "LineSN": 260,
+    "temperature": 26.4,
+    "ID": 201
+  },
+  {
+    "Mile": "EK13+153",
+    "LineSN": 259,
+    "temperature": 21.8,
+    "ID": 202
+  },
+  {
+    "Mile": "EK13+165.5",
+    "LineSN": 258,
+    "temperature": 27.9,
+    "ID": 203
+  },
+  {
+    "Mile": "EK13+178",
+    "LineSN": 257,
+    "temperature": 20.4,
+    "ID": 204
+  },
+  {
+    "Mile": "EK13+190.5",
+    "LineSN": 256,
+    "temperature": 23.9,
+    "ID": 205
+  },
+  {
+    "Mile": "EK13+203",
+    "LineSN": 255,
+    "temperature": 20.2,
+    "ID": 206
+  },
+  {
+    "Mile": "EK13+215.5",
+    "LineSN": 254,
+    "temperature": 20.6,
+    "ID": 207
+  },
+  {
+    "Mile": "EK13+228",
+    "LineSN": 253,
+    "temperature": 24.5,
+    "ID": 208
+  },
+  {
+    "Mile": "EK13+240.5",
+    "LineSN": 252,
+    "temperature": 21.8,
+    "ID": 209
+  },
+  {
+    "Mile": "EK13+253",
+    "LineSN": 251,
+    "temperature": 25.8,
+    "ID": 210
+  },
+  {
+    "Mile": "EK13+265.5",
+    "LineSN": 250,
+    "temperature": 20.6,
+    "ID": 211
+  },
+  {
+    "Mile": "EK13+278",
+    "LineSN": 249,
+    "temperature": 26.9,
+    "ID": 212
+  },
+  {
+    "Mile": "EK13+290.5",
+    "LineSN": 248,
+    "temperature": 27.2,
+    "ID": 213
+  },
+  {
+    "Mile": "EK13+303",
+    "LineSN": 247,
+    "temperature": 29.5,
+    "ID": 214
+  },
+  {
+    "Mile": "EK13+315.5",
+    "LineSN": 246,
+    "temperature": 29.7,
+    "ID": 215
+  },
+  {
+    "Mile": "EK13+328",
+    "LineSN": 245,
+    "temperature": 28.3,
+    "ID": 216
+  },
+  {
+    "Mile": "EK13+340.5",
+    "LineSN": 244,
+    "temperature": 22.4,
+    "ID": 217
+  },
+  {
+    "Mile": "EK13+353",
+    "LineSN": 243,
+    "temperature": 23.7,
+    "ID": 218
+  },
+  {
+    "Mile": "EK13+365.5",
+    "LineSN": 242,
+    "temperature": 28.2,
+    "ID": 219
+  },
+  {
+    "Mile": "EK13+378",
+    "LineSN": 241,
+    "temperature": 24.0,
+    "ID": 220
+  },
+  {
+    "Mile": "EK13+390.5",
+    "LineSN": 230,
+    "temperature": 29.5,
+    "ID": 221
+  },
+  {
+    "Mile": "EK13+403",
+    "LineSN": 229,
+    "temperature": 21.5,
+    "ID": 222
+  },
+  {
+    "Mile": "EK13+415.5",
+    "LineSN": 228,
+    "temperature": 26.1,
+    "ID": 223
+  },
+  {
+    "Mile": "EK13+428",
+    "LineSN": 227,
+    "temperature": 25.1,
+    "ID": 224
+  },
+  {
+    "Mile": "EK13+440.5",
+    "LineSN": 226,
+    "temperature": 23.2,
+    "ID": 225
+  },
+  {
+    "Mile": "EK13+453",
+    "LineSN": 225,
+    "temperature": 23.5,
+    "ID": 226
+  },
+  {
+    "Mile": "EK13+465.5",
+    "LineSN": 224,
+    "temperature": 25.1,
+    "ID": 227
+  },
+  {
+    "Mile": "EK13+478",
+    "LineSN": 223,
+    "temperature": 25.7,
+    "ID": 228
+  },
+  {
+    "Mile": "EK13+490.5",
+    "LineSN": 222,
+    "temperature": 20.2,
+    "ID": 229
+  },
+  {
+    "Mile": "EK13+503",
+    "LineSN": 221,
+    "temperature": 20.7,
+    "ID": 230
+  },
+  {
+    "Mile": "EK13+515.5",
+    "LineSN": 220,
+    "temperature": 29.1,
+    "ID": 231
+  },
+  {
+    "Mile": "EK13+528",
+    "LineSN": 219,
+    "temperature": 24.0,
+    "ID": 232
+  },
+  {
+    "Mile": "EK13+540.5",
+    "LineSN": 218,
+    "temperature": 24.7,
+    "ID": 233
+  },
+  {
+    "Mile": "EK13+553",
+    "LineSN": 217,
+    "temperature": 21.6,
+    "ID": 234
+  },
+  {
+    "Mile": "EK13+565.5",
+    "LineSN": 216,
+    "temperature": 28.7,
+    "ID": 235
+  },
+  {
+    "Mile": "EK13+578",
+    "LineSN": 215,
+    "temperature": 21.7,
+    "ID": 236
+  },
+  {
+    "Mile": "EK13+590.5",
+    "LineSN": 214,
+    "temperature": 21.8,
+    "ID": 237
+  },
+  {
+    "Mile": "EK13+603",
+    "LineSN": 213,
+    "temperature": 20.2,
+    "ID": 238
+  },
+  {
+    "Mile": "EK13+615.5",
+    "LineSN": 212,
+    "temperature": 23.5,
+    "ID": 239
+  },
+  {
+    "Mile": "EK13+628",
+    "LineSN": 211,
+    "temperature": 26.7,
+    "ID": 240
+  },
+  {
+    "Mile": "EK13+640.5",
+    "LineSN": 200,
+    "temperature": 29.5,
+    "ID": 241
+  },
+  {
+    "Mile": "EK13+653",
+    "LineSN": 199,
+    "temperature": 29.4,
+    "ID": 242
+  },
+  {
+    "Mile": "EK13+665.5",
+    "LineSN": 198,
+    "temperature": 29.7,
+    "ID": 243
+  },
+  {
+    "Mile": "EK13+678",
+    "LineSN": 197,
+    "temperature": 25.8,
+    "ID": 244
+  },
+  {
+    "Mile": "EK13+690.5",
+    "LineSN": 196,
+    "temperature": 22.0,
+    "ID": 245
+  },
+  {
+    "Mile": "EK13+703",
+    "LineSN": 195,
+    "temperature": 24.4,
+    "ID": 246
+  },
+  {
+    "Mile": "EK13+715.5",
+    "LineSN": 194,
+    "temperature": 27.6,
+    "ID": 247
+  },
+  {
+    "Mile": "EK13+728",
+    "LineSN": 193,
+    "temperature": 23.6,
+    "ID": 248
+  },
+  {
+    "Mile": "EK13+740.5",
+    "LineSN": 192,
+    "temperature": 30.0,
+    "ID": 249
+  },
+  {
+    "Mile": "EK13+753",
+    "LineSN": 191,
+    "temperature": 27.1,
+    "ID": 250
+  },
+  {
+    "Mile": "EK13+765.5",
+    "LineSN": 190,
+    "temperature": 20.9,
+    "ID": 251
+  },
+  {
+    "Mile": "EK13+778",
+    "LineSN": 189,
+    "temperature": 29.1,
+    "ID": 252
+  },
+  {
+    "Mile": "EK13+790.5",
+    "LineSN": 188,
+    "temperature": 27.8,
+    "ID": 253
+  },
+  {
+    "Mile": "EK13+803",
+    "LineSN": 187,
+    "temperature": 25.1,
+    "ID": 254
+  },
+  {
+    "Mile": "EK13+815.5",
+    "LineSN": 186,
+    "temperature": 21.1,
+    "ID": 255
+  },
+  {
+    "Mile": "EK13+828",
+    "LineSN": 185,
+    "temperature": 22.0,
+    "ID": 256
+  },
+  {
+    "Mile": "EK13+840.5",
+    "LineSN": 184,
+    "temperature": 27.1,
+    "ID": 257
+  },
+  {
+    "Mile": "EK13+853",
+    "LineSN": 183,
+    "temperature": 27.6,
+    "ID": 258
+  },
+  {
+    "Mile": "EK13+865.5",
+    "LineSN": 182,
+    "temperature": 24.6,
+    "ID": 259
+  },
+  {
+    "Mile": "EK13+878",
+    "LineSN": 181,
+    "temperature": 22.2,
+    "ID": 260
+  },
+  {
+    "Mile": "EK13+890.5",
+    "LineSN": 170,
+    "temperature": 21.1,
+    "ID": 261
+  },
+  {
+    "Mile": "EK13+903",
+    "LineSN": 169,
+    "temperature": 20.5,
+    "ID": 262
+  },
+  {
+    "Mile": "EK13+915.5",
+    "LineSN": 168,
+    "temperature": 29.6,
+    "ID": 263
+  },
+  {
+    "Mile": "EK13+928",
+    "LineSN": 167,
+    "temperature": 22.3,
+    "ID": 264
+  },
+  {
+    "Mile": "EK13+940.5",
+    "LineSN": 166,
+    "temperature": 23.3,
+    "ID": 265
+  },
+  {
+    "Mile": "EK13+953",
+    "LineSN": 165,
+    "temperature": 27.6,
+    "ID": 266
+  },
+  {
+    "Mile": "EK13+965.5",
+    "LineSN": 164,
+    "temperature": 26.6,
+    "ID": 267
+  },
+  {
+    "Mile": "EK13+978",
+    "LineSN": 163,
+    "temperature": 23.4,
+    "ID": 268
+  },
+  {
+    "Mile": "EK13+990.5",
+    "LineSN": 162,
+    "temperature": 28.3,
+    "ID": 269
+  },
+  {
+    "Mile": "EK14+3",
+    "LineSN": 161,
+    "temperature": 21.1,
+    "ID": 270
+  },
+  {
+    "Mile": "EK14+15.5",
+    "LineSN": 160,
+    "temperature": 27.6,
+    "ID": 271
+  },
+  {
+    "Mile": "EK14+28",
+    "LineSN": 159,
+    "temperature": 24.0,
+    "ID": 272
+  },
+  {
+    "Mile": "EK14+40.5",
+    "LineSN": 158,
+    "temperature": 28.5,
+    "ID": 273
+  },
+  {
+    "Mile": "EK14+53",
+    "LineSN": 157,
+    "temperature": 28.7,
+    "ID": 274
+  },
+  {
+    "Mile": "EK14+65.5",
+    "LineSN": 156,
+    "temperature": 24.4,
+    "ID": 275
+  },
+  {
+    "Mile": "EK14+78",
+    "LineSN": 155,
+    "temperature": 22.4,
+    "ID": 276
+  },
+  {
+    "Mile": "EK14+90.5",
+    "LineSN": 154,
+    "temperature": 24.4,
+    "ID": 277
+  },
+  {
+    "Mile": "EK14+103",
+    "LineSN": 153,
+    "temperature": 21.5,
+    "ID": 278
+  },
+  {
+    "Mile": "EK14+115.5",
+    "LineSN": 152,
+    "temperature": 22.6,
+    "ID": 279
+  },
+  {
+    "Mile": "EK14+128",
+    "LineSN": 151,
+    "temperature": 25.1,
+    "ID": 280
+  },
+  {
+    "Mile": "EK14+140.5",
+    "LineSN": 140,
+    "temperature": 28.0,
+    "ID": 281
+  },
+  {
+    "Mile": "EK14+153",
+    "LineSN": 139,
+    "temperature": 29.5,
+    "ID": 282
+  },
+  {
+    "Mile": "EK14+165.5",
+    "LineSN": 138,
+    "temperature": 23.2,
+    "ID": 283
+  },
+  {
+    "Mile": "EK14+178",
+    "LineSN": 137,
+    "temperature": 23.9,
+    "ID": 284
+  },
+  {
+    "Mile": "EK14+190.5",
+    "LineSN": 136,
+    "temperature": 21.9,
+    "ID": 285
+  },
+  {
+    "Mile": "EK14+203",
+    "LineSN": 135,
+    "temperature": 24.2,
+    "ID": 286
+  },
+  {
+    "Mile": "EK14+215.5",
+    "LineSN": 134,
+    "temperature": 21.7,
+    "ID": 287
+  },
+  {
+    "Mile": "EK14+228",
+    "LineSN": 133,
+    "temperature": 25.0,
+    "ID": 288
+  },
+  {
+    "Mile": "EK14+240.5",
+    "LineSN": 132,
+    "temperature": 25.6,
+    "ID": 289
+  },
+  {
+    "Mile": "EK14+253",
+    "LineSN": 131,
+    "temperature": 24.8,
+    "ID": 290
+  },
+  {
+    "Mile": "EK14+265.5",
+    "LineSN": 130,
+    "temperature": 27.4,
+    "ID": 291
+  },
+  {
+    "Mile": "EK14+278",
+    "LineSN": 129,
+    "temperature": 23.3,
+    "ID": 292
+  },
+  {
+    "Mile": "EK14+290.5",
+    "LineSN": 128,
+    "temperature": 28.4,
+    "ID": 293
+  },
+  {
+    "Mile": "EK14+303",
+    "LineSN": 127,
+    "temperature": 25.2,
+    "ID": 294
+  },
+  {
+    "Mile": "EK14+315.5",
+    "LineSN": 126,
+    "temperature": 23.4,
+    "ID": 295
+  },
+  {
+    "Mile": "EK14+328",
+    "LineSN": 125,
+    "temperature": 28.7,
+    "ID": 296
+  },
+  {
+    "Mile": "EK14+340.5",
+    "LineSN": 124,
+    "temperature": 23.2,
+    "ID": 297
+  },
+  {
+    "Mile": "EK14+353",
+    "LineSN": 123,
+    "temperature": 24.9,
+    "ID": 298
+  },
+  {
+    "Mile": "EK14+365.5",
+    "LineSN": 122,
+    "temperature": 26.1,
+    "ID": 299
+  },
+  {
+    "Mile": "EK14+378",
+    "LineSN": 121,
+    "temperature": 20.8,
+    "ID": 300
+  },
+  {
+    "Mile": "EK14+390.5",
+    "LineSN": 110,
+    "temperature": 21.2,
+    "ID": 301
+  },
+  {
+    "Mile": "EK14+403",
+    "LineSN": 109,
+    "temperature": 21.3,
+    "ID": 302
+  },
+  {
+    "Mile": "EK14+415.5",
+    "LineSN": 108,
+    "temperature": 23.9,
+    "ID": 303
+  },
+  {
+    "Mile": "EK14+428",
+    "LineSN": 107,
+    "temperature": 24.0,
+    "ID": 304
+  },
+  {
+    "Mile": "EK14+440.5",
+    "LineSN": 106,
+    "temperature": 24.1,
+    "ID": 305
+  },
+  {
+    "Mile": "EK14+453",
+    "LineSN": 105,
+    "temperature": 27.4,
+    "ID": 306
+  },
+  {
+    "Mile": "EK14+465.5",
+    "LineSN": 104,
+    "temperature": 25.5,
+    "ID": 307
+  },
+  {
+    "Mile": "EK14+478",
+    "LineSN": 103,
+    "temperature": 28.9,
+    "ID": 308
+  },
+  {
+    "Mile": "EK14+490.5",
+    "LineSN": 102,
+    "temperature": 24.0,
+    "ID": 309
+  },
+  {
+    "Mile": "EK14+503",
+    "LineSN": 101,
+    "temperature": 27.8,
+    "ID": 310
+  },
+  {
+    "Mile": "EK14+515.5",
+    "LineSN": 100,
+    "temperature": 22.8,
+    "ID": 311
+  },
+  {
+    "Mile": "EK14+528",
+    "LineSN": 99,
+    "temperature": 24.8,
+    "ID": 312
+  },
+  {
+    "Mile": "EK14+540.5",
+    "LineSN": 98,
+    "temperature": 21.8,
+    "ID": 313
+  },
+  {
+    "Mile": "EK14+553",
+    "LineSN": 97,
+    "temperature": 22.2,
+    "ID": 314
+  },
+  {
+    "Mile": "EK14+565.5",
+    "LineSN": 96,
+    "temperature": 28.7,
+    "ID": 315
+  },
+  {
+    "Mile": "EK14+578",
+    "LineSN": 95,
+    "temperature": 21.6,
+    "ID": 316
+  },
+  {
+    "Mile": "EK14+590.5",
+    "LineSN": 94,
+    "temperature": 25.7,
+    "ID": 317
+  },
+  {
+    "Mile": "EK14+603",
+    "LineSN": 93,
+    "temperature": 23.2,
+    "ID": 318
+  },
+  {
+    "Mile": "EK14+615.5",
+    "LineSN": 92,
+    "temperature": 29.6,
+    "ID": 319
+  },
+  {
+    "Mile": "EK14+628",
+    "LineSN": 91,
+    "temperature": 21.4,
+    "ID": 320
+  },
+  {
+    "Mile": "EK14+640.5",
+    "LineSN": 80,
+    "temperature": 25.5,
+    "ID": 321
+  },
+  {
+    "Mile": "EK14+653",
+    "LineSN": 79,
+    "temperature": 20.7,
+    "ID": 322
+  },
+  {
+    "Mile": "EK14+665.5",
+    "LineSN": 78,
+    "temperature": 26.1,
+    "ID": 323
+  },
+  {
+    "Mile": "EK14+678",
+    "LineSN": 77,
+    "temperature": 27.6,
+    "ID": 324
+  },
+  {
+    "Mile": "EK14+690.5",
+    "LineSN": 76,
+    "temperature": 25.6,
+    "ID": 325
+  },
+  {
+    "Mile": "EK14+703",
+    "LineSN": 75,
+    "temperature": 27.4,
+    "ID": 326
+  },
+  {
+    "Mile": "EK14+715.5",
+    "LineSN": 74,
+    "temperature": 25.0,
+    "ID": 327
+  },
+  {
+    "Mile": "EK14+728",
+    "LineSN": 73,
+    "temperature": 20.1,
+    "ID": 328
+  },
+  {
+    "Mile": "EK14+740.5",
+    "LineSN": 72,
+    "temperature": 24.7,
+    "ID": 329
+  },
+  {
+    "Mile": "EK14+753",
+    "LineSN": 71,
+    "temperature": 24.5,
+    "ID": 330
+  },
+  {
+    "Mile": "EK14+765.5",
+    "LineSN": 70,
+    "temperature": 25.9,
+    "ID": 331
+  },
+  {
+    "Mile": "EK14+778",
+    "LineSN": 69,
+    "temperature": 29.2,
+    "ID": 332
+  },
+  {
+    "Mile": "EK14+790.5",
+    "LineSN": 68,
+    "temperature": 23.5,
+    "ID": 333
+  },
+  {
+    "Mile": "EK14+803",
+    "LineSN": 67,
+    "temperature": 23.7,
+    "ID": 334
+  },
+  {
+    "Mile": "EK14+815.5",
+    "LineSN": 66,
+    "temperature": 22.9,
+    "ID": 335
+  },
+  {
+    "Mile": "EK14+828",
+    "LineSN": 65,
+    "temperature": 28.0,
+    "ID": 336
+  },
+  {
+    "Mile": "EK14+840.5",
+    "LineSN": 64,
+    "temperature": 24.6,
+    "ID": 337
+  },
+  {
+    "Mile": "EK14+853",
+    "LineSN": 63,
+    "temperature": 26.2,
+    "ID": 338
+  },
+  {
+    "Mile": "EK14+865.5",
+    "LineSN": 62,
+    "temperature": 29.2,
+    "ID": 339
+  },
+  {
+    "Mile": "EK14+878",
+    "LineSN": 61,
+    "temperature": 27.4,
+    "ID": 340
+  },
+  {
+    "Mile": "EK14+890.5",
+    "LineSN": 50,
+    "temperature": 22.3,
+    "ID": 341
+  },
+  {
+    "Mile": "EK14+903",
+    "LineSN": 49,
+    "temperature": 28.0,
+    "ID": 342
+  },
+  {
+    "Mile": "EK14+915.5",
+    "LineSN": 48,
+    "temperature": 26.9,
+    "ID": 343
+  },
+  {
+    "Mile": "EK14+928",
+    "LineSN": 47,
+    "temperature": 25.4,
+    "ID": 344
+  },
+  {
+    "Mile": "EK14+940.5",
+    "LineSN": 46,
+    "temperature": 24.8,
+    "ID": 345
+  },
+  {
+    "Mile": "EK14+953",
+    "LineSN": 45,
+    "temperature": 24.5,
+    "ID": 346
+  },
+  {
+    "Mile": "EK14+965.5",
+    "LineSN": 44,
+    "temperature": 29.8,
+    "ID": 347
+  },
+  {
+    "Mile": "EK14+978",
+    "LineSN": 43,
+    "temperature": 28.5,
+    "ID": 348
+  },
+  {
+    "Mile": "EK14+990.5",
+    "LineSN": 42,
+    "temperature": 20.4,
+    "ID": 349
+  },
+  {
+    "Mile": "EK15+3",
+    "LineSN": 41,
+    "temperature": 25.9,
+    "ID": 350
+  },
+  {
+    "Mile": "EK15+15.5",
+    "LineSN": 40,
+    "temperature": 22.4,
+    "ID": 351
+  },
+  {
+    "Mile": "EK15+28",
+    "LineSN": 39,
+    "temperature": 28.5,
+    "ID": 352
+  },
+  {
+    "Mile": "EK15+40.5",
+    "LineSN": 38,
+    "temperature": 22.6,
+    "ID": 353
+  },
+  {
+    "Mile": "EK15+53",
+    "LineSN": 37,
+    "temperature": 27.0,
+    "ID": 354
+  },
+  {
+    "Mile": "EK15+65.5",
+    "LineSN": 36,
+    "temperature": 23.4,
+    "ID": 355
+  },
+  {
+    "Mile": "EK15+78",
+    "LineSN": 35,
+    "temperature": 24.6,
+    "ID": 356
+  },
+  {
+    "Mile": "EK15+90.5",
+    "LineSN": 34,
+    "temperature": 21.4,
+    "ID": 357
+  },
+  {
+    "Mile": "EK15+103",
+    "LineSN": 33,
+    "temperature": 27.6,
+    "ID": 358
+  },
+  {
+    "Mile": "EK15+115.5",
+    "LineSN": 32,
+    "temperature": 27.2,
+    "ID": 359
+  },
+  {
+    "Mile": "EK15+128",
+    "LineSN": 31,
+    "temperature": 28.8,
+    "ID": 360
+  },
+  {
+    "Mile": "EK15+140.5",
+    "LineSN": 20,
+    "temperature": 24.0,
+    "ID": 361
+  },
+  {
+    "Mile": "EK15+153",
+    "LineSN": 19,
+    "temperature": 20.3,
+    "ID": 362
+  },
+  {
+    "Mile": "EK15+165.5",
+    "LineSN": 18,
+    "temperature": 25.7,
+    "ID": 363
+  },
+  {
+    "Mile": "EK15+178",
+    "LineSN": 17,
+    "temperature": 27.6,
+    "ID": 364
+  },
+  {
+    "Mile": "EK15+190.5",
+    "LineSN": 16,
+    "temperature": 26.9,
+    "ID": 365
+  },
+  {
+    "Mile": "EK15+203",
+    "LineSN": 15,
+    "temperature": 23.7,
+    "ID": 366
+  },
+  {
+    "Mile": "EK15+215.5",
+    "LineSN": 14,
+    "temperature": 20.4,
+    "ID": 367
+  },
+  {
+    "Mile": "EK15+228",
+    "LineSN": 13,
+    "temperature": 21.2,
+    "ID": 368
+  },
+  {
+    "Mile": "EK15+240.5",
+    "LineSN": 12,
+    "temperature": 23.5,
+    "ID": 369
+  },
+  {
+    "Mile": "EK15+253",
+    "LineSN": 11,
+    "temperature": 27.2,
+    "ID": 370
+  },
+  {
+    "Mile": "EK15+265.5",
+    "LineSN": 10,
+    "temperature": 28.3,
+    "ID": 371
+  },
+  {
+    "Mile": "EK15+278",
+    "LineSN": 9,
+    "temperature": 20.6,
+    "ID": 372
+  },
+  {
+    "Mile": "EK15+290.5",
+    "LineSN": 8,
+    "temperature": 22.2,
+    "ID": 373
+  },
+  {
+    "Mile": "EK15+303",
+    "LineSN": 7,
+    "temperature": 25.1,
+    "ID": 374
+  },
+  {
+    "Mile": "EK15+315.5",
+    "LineSN": 6,
+    "temperature": 27.8,
+    "ID": 375
+  },
+  {
+    "Mile": "EK15+328",
+    "LineSN": 5,
+    "temperature": 22.4,
+    "ID": 376
+  },
+  {
+    "Mile": "EK15+340.5",
+    "LineSN": 4,
+    "temperature": 26.8,
+    "ID": 377
+  },
+  {
+    "Mile": "EK15+353",
+    "LineSN": 3,
+    "temperature": 26.2,
+    "ID": 378
+  },
+  {
+    "Mile": "EK15+365.5",
+    "LineSN": 2,
+    "temperature": 26.7,
+    "ID": 379
+  },
+  {
+    "Mile": "EK15+378",
+    "LineSN": 1,
+    "temperature": 22.3,
+    "ID": 380
+  },
+  {
+    "Mile": "WK05+778",
+    "LineSN": 767,
+    "temperature": 27.7,
+    "ID": 381
+  },
+  {
+    "Mile": "WK05+784.25",
+    "LineSN": 766,
+    "temperature": 26.8,
+    "ID": 382
+  },
+  {
+    "Mile": "WK05+790.5",
+    "LineSN": 765,
+    "temperature": 22.4,
+    "ID": 383
+  },
+  {
+    "Mile": "WK05+796.75",
+    "LineSN": 764,
+    "temperature": 27.2,
+    "ID": 384
+  },
+  {
+    "Mile": "WK05+803",
+    "LineSN": 763,
+    "temperature": 24.3,
+    "ID": 385
+  },
+  {
+    "Mile": "WK05+809.25",
+    "LineSN": 762,
+    "temperature": 23.2,
+    "ID": 386
+  },
+  {
+    "Mile": "WK05+815.5",
+    "LineSN": 761,
+    "temperature": 29.1,
+    "ID": 387
+  },
+  {
+    "Mile": "WK05+821.75",
+    "LineSN": 760,
+    "temperature": 26.5,
+    "ID": 388
+  },
+  {
+    "Mile": "WK05+828",
+    "LineSN": 759,
+    "temperature": 21.4,
+    "ID": 389
+  },
+  {
+    "Mile": "WK05+834.25",
+    "LineSN": 758,
+    "temperature": 20.4,
+    "ID": 390
+  },
+  {
+    "Mile": "WK05+840.5",
+    "LineSN": 757,
+    "temperature": 27.0,
+    "ID": 391
+  },
+  {
+    "Mile": "WK05+846.75",
+    "LineSN": 756,
+    "temperature": 25.2,
+    "ID": 392
+  },
+  {
+    "Mile": "WK05+853",
+    "LineSN": 755,
+    "temperature": 26.4,
+    "ID": 393
+  },
+  {
+    "Mile": "WK05+859.25",
+    "LineSN": 754,
+    "temperature": 24.3,
+    "ID": 394
+  },
+  {
+    "Mile": "WK05+865.5",
+    "LineSN": 753,
+    "temperature": 25.3,
+    "ID": 395
+  },
+  {
+    "Mile": "WK05+871.75",
+    "LineSN": 752,
+    "temperature": 29.3,
+    "ID": 396
+  },
+  {
+    "Mile": "WK05+878",
+    "LineSN": 751,
+    "temperature": 25.9,
+    "ID": 397
+  },
+  {
+    "Mile": "WK05+884.25",
+    "LineSN": 740,
+    "temperature": 27.1,
+    "ID": 398
+  },
+  {
+    "Mile": "WK05+890.5",
+    "LineSN": 739,
+    "temperature": 24.2,
+    "ID": 399
+  },
+  {
+    "Mile": "WK05+896.75",
+    "LineSN": 738,
+    "temperature": 24.3,
+    "ID": 400
+  },
+  {
+    "Mile": "WK05+903",
+    "LineSN": 737,
+    "temperature": 28.8,
+    "ID": 401
+  },
+  {
+    "Mile": "WK05+909.25",
+    "LineSN": 736,
+    "temperature": 25.2,
+    "ID": 402
+  },
+  {
+    "Mile": "WK05+915.5",
+    "LineSN": 735,
+    "temperature": 20.4,
+    "ID": 403
+  },
+  {
+    "Mile": "WK05+921.75",
+    "LineSN": 734,
+    "temperature": 23.9,
+    "ID": 404
+  },
+  {
+    "Mile": "WK05+928",
+    "LineSN": 733,
+    "temperature": 29.1,
+    "ID": 405
+  },
+  {
+    "Mile": "WK05+934.25",
+    "LineSN": 732,
+    "temperature": 22.2,
+    "ID": 406
+  },
+  {
+    "Mile": "WK05+940.5",
+    "LineSN": 731,
+    "temperature": 23.9,
+    "ID": 407
+  },
+  {
+    "Mile": "WK05+946.75",
+    "LineSN": 730,
+    "temperature": 25.4,
+    "ID": 408
+  },
+  {
+    "Mile": "WK05+953",
+    "LineSN": 729,
+    "temperature": 28.8,
+    "ID": 409
+  },
+  {
+    "Mile": "WK05+959.25",
+    "LineSN": 728,
+    "temperature": 26.3,
+    "ID": 410
+  },
+  {
+    "Mile": "WK05+965.5",
+    "LineSN": 727,
+    "temperature": 23.5,
+    "ID": 411
+  },
+  {
+    "Mile": "WK05+971.75",
+    "LineSN": 726,
+    "temperature": 23.9,
+    "ID": 412
+  },
+  {
+    "Mile": "WK05+978",
+    "LineSN": 725,
+    "temperature": 21.7,
+    "ID": 413
+  },
+  {
+    "Mile": "WK05+984.25",
+    "LineSN": 724,
+    "temperature": 28.6,
+    "ID": 414
+  },
+  {
+    "Mile": "WK05+990.5",
+    "LineSN": 723,
+    "temperature": 27.1,
+    "ID": 415
+  },
+  {
+    "Mile": "WK05+996.75",
+    "LineSN": 722,
+    "temperature": 22.0,
+    "ID": 416
+  },
+  {
+    "Mile": "WK06+003",
+    "LineSN": 721,
+    "temperature": 28.0,
+    "ID": 417
+  },
+  {
+    "Mile": "WK06+9.25",
+    "LineSN": 710,
+    "temperature": 21.5,
+    "ID": 418
+  },
+  {
+    "Mile": "WK06+15.5",
+    "LineSN": 709,
+    "temperature": 26.0,
+    "ID": 419
+  },
+  {
+    "Mile": "WK06+21.75",
+    "LineSN": 708,
+    "temperature": 23.2,
+    "ID": 420
+  },
+  {
+    "Mile": "WK06+28",
+    "LineSN": 707,
+    "temperature": 25.5,
+    "ID": 421
+  },
+  {
+    "Mile": "WK06+34.25",
+    "LineSN": 706,
+    "temperature": 25.0,
+    "ID": 422
+  },
+  {
+    "Mile": "WK06+40.5",
+    "LineSN": 705,
+    "temperature": 27.0,
+    "ID": 423
+  },
+  {
+    "Mile": "WK06+46.75",
+    "LineSN": 704,
+    "temperature": 26.6,
+    "ID": 424
+  },
+  {
+    "Mile": "WK06+53",
+    "LineSN": 703,
+    "temperature": 21.3,
+    "ID": 425
+  },
+  {
+    "Mile": "WK06+59.25",
+    "LineSN": 702,
+    "temperature": 25.4,
+    "ID": 426
+  },
+  {
+    "Mile": "WK06+65.5",
+    "LineSN": 701,
+    "temperature": 20.5,
+    "ID": 427
+  },
+  {
+    "Mile": "WK06+71.75",
+    "LineSN": 700,
+    "temperature": 27.4,
+    "ID": 428
+  },
+  {
+    "Mile": "WK06+78",
+    "LineSN": 699,
+    "temperature": 27.5,
+    "ID": 429
+  },
+  {
+    "Mile": "WK06+84.25",
+    "LineSN": 698,
+    "temperature": 26.4,
+    "ID": 430
+  },
+  {
+    "Mile": "WK06+90.5",
+    "LineSN": 697,
+    "temperature": 25.4,
+    "ID": 431
+  },
+  {
+    "Mile": "WK06+96.75",
+    "LineSN": 696,
+    "temperature": 21.3,
+    "ID": 432
+  },
+  {
+    "Mile": "WK06+103",
+    "LineSN": 695,
+    "temperature": 21.6,
+    "ID": 433
+  },
+  {
+    "Mile": "WK06+109.25",
+    "LineSN": 694,
+    "temperature": 24.7,
+    "ID": 434
+  },
+  {
+    "Mile": "WK06+115.5",
+    "LineSN": 693,
+    "temperature": 23.3,
+    "ID": 435
+  },
+  {
+    "Mile": "WK06+121.75",
+    "LineSN": 692,
+    "temperature": 29.2,
+    "ID": 436
+  },
+  {
+    "Mile": "WK06+128",
+    "LineSN": 691,
+    "temperature": 21.8,
+    "ID": 437
+  },
+  {
+    "Mile": "WK06+134.25",
+    "LineSN": 680,
+    "temperature": 21.9,
+    "ID": 438
+  },
+  {
+    "Mile": "WK06+140.5",
+    "LineSN": 679,
+    "temperature": 25.8,
+    "ID": 439
+  },
+  {
+    "Mile": "WK06+146.75",
+    "LineSN": 678,
+    "temperature": 26.7,
+    "ID": 440
+  },
+  {
+    "Mile": "WK06+153",
+    "LineSN": 677,
+    "temperature": 27.1,
+    "ID": 441
+  },
+  {
+    "Mile": "WK06+159.25",
+    "LineSN": 676,
+    "temperature": 22.6,
+    "ID": 442
+  },
+  {
+    "Mile": "WK06+165.5",
+    "LineSN": 675,
+    "temperature": 29.3,
+    "ID": 443
+  },
+  {
+    "Mile": "WK06+171.75",
+    "LineSN": 674,
+    "temperature": 20.0,
+    "ID": 444
+  },
+  {
+    "Mile": "WK06+178",
+    "LineSN": 673,
+    "temperature": 20.7,
+    "ID": 445
+  },
+  {
+    "Mile": "WK06+184.25",
+    "LineSN": 672,
+    "temperature": 25.1,
+    "ID": 446
+  },
+  {
+    "Mile": "WK06+190.5",
+    "LineSN": 671,
+    "temperature": 23.2,
+    "ID": 447
+  },
+  {
+    "Mile": "WK06+196.75",
+    "LineSN": 670,
+    "temperature": 24.4,
+    "ID": 448
+  },
+  {
+    "Mile": "WK06+203",
+    "LineSN": 669,
+    "temperature": 26.1,
+    "ID": 449
+  },
+  {
+    "Mile": "WK06+209.25",
+    "LineSN": 668,
+    "temperature": 20.1,
+    "ID": 450
+  },
+  {
+    "Mile": "WK06+215.5",
+    "LineSN": 667,
+    "temperature": 20.0,
+    "ID": 451
+  },
+  {
+    "Mile": "WK06+221.75",
+    "LineSN": 666,
+    "temperature": 29.4,
+    "ID": 452
+  },
+  {
+    "Mile": "WK06+228",
+    "LineSN": 665,
+    "temperature": 20.7,
+    "ID": 453
+  },
+  {
+    "Mile": "WK06+234.25",
+    "LineSN": 664,
+    "temperature": 26.4,
+    "ID": 454
+  },
+  {
+    "Mile": "WK06+240.5",
+    "LineSN": 663,
+    "temperature": 21.6,
+    "ID": 455
+  },
+  {
+    "Mile": "WK06+246.75",
+    "LineSN": 662,
+    "temperature": 21.2,
+    "ID": 456
+  },
+  {
+    "Mile": "WK06+253",
+    "LineSN": 661,
+    "temperature": 27.3,
+    "ID": 457
+  },
+  {
+    "Mile": "WK06+265.5",
+    "LineSN": 649,
+    "temperature": 24.2,
+    "ID": 458
+  },
+  {
+    "Mile": "WK06+271.75",
+    "LineSN": 648,
+    "temperature": 21.5,
+    "ID": 459
+  },
+  {
+    "Mile": "WK06+278",
+    "LineSN": 647,
+    "temperature": 23.4,
+    "ID": 460
+  },
+  {
+    "Mile": "WK06+284.25",
+    "LineSN": 646,
+    "temperature": 21.5,
+    "ID": 461
+  },
+  {
+    "Mile": "WK06+290.5",
+    "LineSN": 645,
+    "temperature": 20.1,
+    "ID": 462
+  },
+  {
+    "Mile": "WK06+296.75",
+    "LineSN": 644,
+    "temperature": 20.1,
+    "ID": 463
+  },
+  {
+    "Mile": "WK06+303",
+    "LineSN": 643,
+    "temperature": 25.5,
+    "ID": 464
+  },
+  {
+    "Mile": "WK06+309.25",
+    "LineSN": 642,
+    "temperature": 23.9,
+    "ID": 465
+  },
+  {
+    "Mile": "WK06+315.5",
+    "LineSN": 641,
+    "temperature": 25.6,
+    "ID": 466
+  },
+  {
+    "Mile": "WK06+321.75",
+    "LineSN": 640,
+    "temperature": 26.5,
+    "ID": 467
+  },
+  {
+    "Mile": "WK06+328",
+    "LineSN": 639,
+    "temperature": 23.9,
+    "ID": 468
+  },
+  {
+    "Mile": "WK06+334.25",
+    "LineSN": 638,
+    "temperature": 22.2,
+    "ID": 469
+  },
+  {
+    "Mile": "WK06+340.5",
+    "LineSN": 637,
+    "temperature": 26.0,
+    "ID": 470
+  },
+  {
+    "Mile": "WK06+346.75",
+    "LineSN": 636,
+    "temperature": 20.7,
+    "ID": 471
+  },
+  {
+    "Mile": "WK06+353",
+    "LineSN": 635,
+    "temperature": 22.0,
+    "ID": 472
+  },
+  {
+    "Mile": "WK06+359.25",
+    "LineSN": 634,
+    "temperature": 29.6,
+    "ID": 473
+  },
+  {
+    "Mile": "WK06+365.5",
+    "LineSN": 633,
+    "temperature": 23.0,
+    "ID": 474
+  },
+  {
+    "Mile": "WK06+371.75",
+    "LineSN": 632,
+    "temperature": 30.0,
+    "ID": 475
+  },
+  {
+    "Mile": "WK06+378",
+    "LineSN": 631,
+    "temperature": 21.5,
+    "ID": 476
+  },
+  {
+    "Mile": "WK06+384.25",
+    "LineSN": 620,
+    "temperature": 24.4,
+    "ID": 477
+  },
+  {
+    "Mile": "WK06+390.5",
+    "LineSN": 619,
+    "temperature": 28.1,
+    "ID": 478
+  },
+  {
+    "Mile": "WK06+396.75",
+    "LineSN": 618,
+    "temperature": 25.9,
+    "ID": 479
+  },
+  {
+    "Mile": "WK06+403",
+    "LineSN": 617,
+    "temperature": 27.6,
+    "ID": 480
+  },
+  {
+    "Mile": "WK06+409.25",
+    "LineSN": 616,
+    "temperature": 25.5,
+    "ID": 481
+  },
+  {
+    "Mile": "WK06+415.5",
+    "LineSN": 615,
+    "temperature": 23.1,
+    "ID": 482
+  },
+  {
+    "Mile": "WK06+421.75",
+    "LineSN": 614,
+    "temperature": 24.6,
+    "ID": 483
+  },
+  {
+    "Mile": "WK06+428",
+    "LineSN": 613,
+    "temperature": 27.3,
+    "ID": 484
+  },
+  {
+    "Mile": "WK06+434.25",
+    "LineSN": 612,
+    "temperature": 23.0,
+    "ID": 485
+  },
+  {
+    "Mile": "WK06+440.5",
+    "LineSN": 611,
+    "temperature": 21.0,
+    "ID": 486
+  },
+  {
+    "Mile": "WK06+446.75",
+    "LineSN": 610,
+    "temperature": 26.8,
+    "ID": 487
+  },
+  {
+    "Mile": "WK06+453",
+    "LineSN": 609,
+    "temperature": 27.1,
+    "ID": 488
+  },
+  {
+    "Mile": "WK06+459.25",
+    "LineSN": 608,
+    "temperature": 28.5,
+    "ID": 489
+  },
+  {
+    "Mile": "WK06+465.5",
+    "LineSN": 607,
+    "temperature": 21.3,
+    "ID": 490
+  },
+  {
+    "Mile": "WK06+471.75",
+    "LineSN": 606,
+    "temperature": 22.2,
+    "ID": 491
+  },
+  {
+    "Mile": "WK06+478",
+    "LineSN": 605,
+    "temperature": 24.2,
+    "ID": 492
+  },
+  {
+    "Mile": "WK06+484.25",
+    "LineSN": 604,
+    "temperature": 28.5,
+    "ID": 493
+  },
+  {
+    "Mile": "WK06+490.5",
+    "LineSN": 603,
+    "temperature": 24.5,
+    "ID": 494
+  },
+  {
+    "Mile": "WK06+496.75",
+    "LineSN": 602,
+    "temperature": 25.1,
+    "ID": 495
+  },
+  {
+    "Mile": "WK06+503",
+    "LineSN": 601,
+    "temperature": 20.0,
+    "ID": 496
+  },
+  {
+    "Mile": "WK06+509.25",
+    "LineSN": 590,
+    "temperature": 26.2,
+    "ID": 497
+  },
+  {
+    "Mile": "WK06+515.5",
+    "LineSN": 589,
+    "temperature": 20.9,
+    "ID": 498
+  },
+  {
+    "Mile": "WK06+521.75",
+    "LineSN": 588,
+    "temperature": 30.0,
+    "ID": 499
+  },
+  {
+    "Mile": "WK06+528",
+    "LineSN": 587,
+    "temperature": 26.9,
+    "ID": 500
+  },
+  {
+    "Mile": "WK06+534.25",
+    "LineSN": 586,
+    "temperature": 22.0,
+    "ID": 501
+  },
+  {
+    "Mile": "WK06+540.5",
+    "LineSN": 585,
+    "temperature": 29.0,
+    "ID": 502
+  },
+  {
+    "Mile": "WK06+546.75",
+    "LineSN": 584,
+    "temperature": 26.1,
+    "ID": 503
+  },
+  {
+    "Mile": "WK06+553",
+    "LineSN": 583,
+    "temperature": 28.8,
+    "ID": 504
+  },
+  {
+    "Mile": "WK06+559.25",
+    "LineSN": 582,
+    "temperature": 26.1,
+    "ID": 505
+  },
+  {
+    "Mile": "WK06+565.5",
+    "LineSN": 581,
+    "temperature": 29.6,
+    "ID": 506
+  },
+  {
+    "Mile": "WK06+571.75",
+    "LineSN": 580,
+    "temperature": 29.2,
+    "ID": 507
+  },
+  {
+    "Mile": "WK06+578",
+    "LineSN": 579,
+    "temperature": 22.2,
+    "ID": 508
+  },
+  {
+    "Mile": "WK06+584.25",
+    "LineSN": 578,
+    "temperature": 29.7,
+    "ID": 509
+  },
+  {
+    "Mile": "WK06+590.5",
+    "LineSN": 577,
+    "temperature": 29.5,
+    "ID": 510
+  },
+  {
+    "Mile": "WK06+596.75",
+    "LineSN": 576,
+    "temperature": 21.6,
+    "ID": 511
+  },
+  {
+    "Mile": "WK06+603",
+    "LineSN": 575,
+    "temperature": 23.5,
+    "ID": 512
+  },
+  {
+    "Mile": "WK06+609.25",
+    "LineSN": 574,
+    "temperature": 24.4,
+    "ID": 513
+  },
+  {
+    "Mile": "WK06+615.5",
+    "LineSN": 573,
+    "temperature": 29.6,
+    "ID": 514
+  },
+  {
+    "Mile": "WK06+621.75",
+    "LineSN": 572,
+    "temperature": 21.0,
+    "ID": 515
+  },
+  {
+    "Mile": "WK06+628",
+    "LineSN": 571,
+    "temperature": 27.2,
+    "ID": 516
+  },
+  {
+    "Mile": "WK06+634.25",
+    "LineSN": 950,
+    "temperature": 28.6,
+    "ID": 517
+  },
+  {
+    "Mile": "WK06+640.5",
+    "LineSN": 949,
+    "temperature": 27.6,
+    "ID": 518
+  },
+  {
+    "Mile": "WK06+646.75",
+    "LineSN": 948,
+    "temperature": 26.3,
+    "ID": 519
+  },
+  {
+    "Mile": "WK06+653",
+    "LineSN": 947,
+    "temperature": 25.0,
+    "ID": 520
+  },
+  {
+    "Mile": "WK06+659.25",
+    "LineSN": 946,
+    "temperature": 23.4,
+    "ID": 521
+  },
+  {
+    "Mile": "WK06+665.5",
+    "LineSN": 945,
+    "temperature": 23.7,
+    "ID": 522
+  },
+  {
+    "Mile": "WK06+671.75",
+    "LineSN": 944,
+    "temperature": 22.1,
+    "ID": 523
+  },
+  {
+    "Mile": "WK06+678",
+    "LineSN": 943,
+    "temperature": 25.7,
+    "ID": 524
+  },
+  {
+    "Mile": "WK06+684.25",
+    "LineSN": 942,
+    "temperature": 23.1,
+    "ID": 525
+  },
+  {
+    "Mile": "WK06+690.5",
+    "LineSN": 941,
+    "temperature": 23.5,
+    "ID": 526
+  },
+  {
+    "Mile": "WK06+696.75",
+    "LineSN": 940,
+    "temperature": 20.6,
+    "ID": 527
+  },
+  {
+    "Mile": "WK06+703",
+    "LineSN": 939,
+    "temperature": 29.9,
+    "ID": 528
+  },
+  {
+    "Mile": "WK06+709.25",
+    "LineSN": 938,
+    "temperature": 20.1,
+    "ID": 529
+  },
+  {
+    "Mile": "WK06+715.5",
+    "LineSN": 937,
+    "temperature": 28.7,
+    "ID": 530
+  },
+  {
+    "Mile": "WK06+721.75",
+    "LineSN": 936,
+    "temperature": 28.1,
+    "ID": 531
+  },
+  {
+    "Mile": "WK06+728",
+    "LineSN": 935,
+    "temperature": 28.5,
+    "ID": 532
+  },
+  {
+    "Mile": "WK06+734.25",
+    "LineSN": 934,
+    "temperature": 22.4,
+    "ID": 533
+  },
+  {
+    "Mile": "WK06+740.5",
+    "LineSN": 933,
+    "temperature": 21.7,
+    "ID": 534
+  },
+  {
+    "Mile": "WK06+746.75",
+    "LineSN": 932,
+    "temperature": 26.9,
+    "ID": 535
+  },
+  {
+    "Mile": "WK06+753",
+    "LineSN": 931,
+    "temperature": 20.6,
+    "ID": 536
+  },
+  {
+    "Mile": "WK06+759.25",
+    "LineSN": 920,
+    "temperature": 23.6,
+    "ID": 537
+  },
+  {
+    "Mile": "WK06+765.5",
+    "LineSN": 919,
+    "temperature": 24.1,
+    "ID": 538
+  },
+  {
+    "Mile": "WK06+771.75",
+    "LineSN": 918,
+    "temperature": 21.3,
+    "ID": 539
+  },
+  {
+    "Mile": "WK06+778",
+    "LineSN": 917,
+    "temperature": 20.7,
+    "ID": 540
+  },
+  {
+    "Mile": "WK06+784.25",
+    "LineSN": 916,
+    "temperature": 28.3,
+    "ID": 541
+  },
+  {
+    "Mile": "WK06+790.5",
+    "LineSN": 915,
+    "temperature": 22.0,
+    "ID": 542
+  },
+  {
+    "Mile": "WK06+796.75",
+    "LineSN": 914,
+    "temperature": 26.1,
+    "ID": 543
+  },
+  {
+    "Mile": "WK06+803",
+    "LineSN": 913,
+    "temperature": 23.8,
+    "ID": 544
+  },
+  {
+    "Mile": "WK06+809.25",
+    "LineSN": 912,
+    "temperature": 26.4,
+    "ID": 545
+  },
+  {
+    "Mile": "WK06+815.5",
+    "LineSN": 911,
+    "temperature": 24.3,
+    "ID": 546
+  },
+  {
+    "Mile": "WK06+821.75",
+    "LineSN": 910,
+    "temperature": 21.4,
+    "ID": 547
+  },
+  {
+    "Mile": "WK06+828",
+    "LineSN": 909,
+    "temperature": 23.2,
+    "ID": 548
+  },
+  {
+    "Mile": "WK06+834.25",
+    "LineSN": 908,
+    "temperature": 29.9,
+    "ID": 549
+  },
+  {
+    "Mile": "WK06+840.5",
+    "LineSN": 907,
+    "temperature": 20.5,
+    "ID": 550
+  },
+  {
+    "Mile": "WK06+846.75",
+    "LineSN": 906,
+    "temperature": 25.5,
+    "ID": 551
+  },
+  {
+    "Mile": "WK06+853",
+    "LineSN": 905,
+    "temperature": 27.1,
+    "ID": 552
+  },
+  {
+    "Mile": "WK06+859.25",
+    "LineSN": 904,
+    "temperature": 22.3,
+    "ID": 553
+  },
+  {
+    "Mile": "WK06+865.5",
+    "LineSN": 903,
+    "temperature": 28.2,
+    "ID": 554
+  },
+  {
+    "Mile": "WK06+871.75",
+    "LineSN": 902,
+    "temperature": 22.7,
+    "ID": 555
+  },
+  {
+    "Mile": "WK06+878",
+    "LineSN": 901,
+    "temperature": 29.1,
+    "ID": 556
+  },
+  {
+    "Mile": "WK06+884.25",
+    "LineSN": 890,
+    "temperature": 22.0,
+    "ID": 557
+  },
+  {
+    "Mile": "WK06+890.5",
+    "LineSN": 889,
+    "temperature": 24.1,
+    "ID": 558
+  },
+  {
+    "Mile": "WK06+896.75",
+    "LineSN": 888,
+    "temperature": 21.4,
+    "ID": 559
+  },
+  {
+    "Mile": "WK06+903",
+    "LineSN": 887,
+    "temperature": 22.9,
+    "ID": 560
+  },
+  {
+    "Mile": "WK06+909.25",
+    "LineSN": 886,
+    "temperature": 23.4,
+    "ID": 561
+  },
+  {
+    "Mile": "WK06+915.5",
+    "LineSN": 885,
+    "temperature": 20.5,
+    "ID": 562
+  },
+  {
+    "Mile": "WK06+921.75",
+    "LineSN": 884,
+    "temperature": 28.0,
+    "ID": 563
+  },
+  {
+    "Mile": "WK06+928",
+    "LineSN": 883,
+    "temperature": 28.0,
+    "ID": 564
+  },
+  {
+    "Mile": "WK06+934.25",
+    "LineSN": 882,
+    "temperature": 24.8,
+    "ID": 565
+  },
+  {
+    "Mile": "WK06+940.5",
+    "LineSN": 881,
+    "temperature": 29.5,
+    "ID": 566
+  },
+  {
+    "Mile": "WK06+946.75",
+    "LineSN": 880,
+    "temperature": 22.6,
+    "ID": 567
+  },
+  {
+    "Mile": "WK06+953",
+    "LineSN": 879,
+    "temperature": 22.3,
+    "ID": 568
+  },
+  {
+    "Mile": "WK06+959.25",
+    "LineSN": 878,
+    "temperature": 21.2,
+    "ID": 569
+  },
+  {
+    "Mile": "WK06+965.5",
+    "LineSN": 877,
+    "temperature": 23.4,
+    "ID": 570
+  },
+  {
+    "Mile": "WK06+971.75",
+    "LineSN": 876,
+    "temperature": 26.4,
+    "ID": 571
+  },
+  {
+    "Mile": "WK06+978",
+    "LineSN": 875,
+    "temperature": 25.0,
+    "ID": 572
+  },
+  {
+    "Mile": "WK06+984.25",
+    "LineSN": 874,
+    "temperature": 29.1,
+    "ID": 573
+  },
+  {
+    "Mile": "WK06+990.5",
+    "LineSN": 873,
+    "temperature": 21.9,
+    "ID": 574
+  },
+  {
+    "Mile": "WK06+996.75",
+    "LineSN": 872,
+    "temperature": 29.7,
+    "ID": 575
+  },
+  {
+    "Mile": "WK07+003",
+    "LineSN": 871,
+    "temperature": 26.7,
+    "ID": 576
+  },
+  {
+    "Mile": "WK07+9.25",
+    "LineSN": 860,
+    "temperature": 23.0,
+    "ID": 577
+  },
+  {
+    "Mile": "WK07+15.5",
+    "LineSN": 859,
+    "temperature": 28.8,
+    "ID": 578
+  },
+  {
+    "Mile": "WK07+21.75",
+    "LineSN": 858,
+    "temperature": 20.2,
+    "ID": 579
+  },
+  {
+    "Mile": "WK07+28",
+    "LineSN": 857,
+    "temperature": 22.2,
+    "ID": 580
+  },
+  {
+    "Mile": "WK07+34.25",
+    "LineSN": 856,
+    "temperature": 20.5,
+    "ID": 581
+  },
+  {
+    "Mile": "WK07+40.5",
+    "LineSN": 855,
+    "temperature": 29.5,
+    "ID": 582
+  },
+  {
+    "Mile": "WK07+46.75",
+    "LineSN": 854,
+    "temperature": 22.0,
+    "ID": 583
+  },
+  {
+    "Mile": "WK07+53",
+    "LineSN": 853,
+    "temperature": 25.0,
+    "ID": 584
+  },
+  {
+    "Mile": "WK07+59.25",
+    "LineSN": 852,
+    "temperature": 29.8,
+    "ID": 585
+  },
+  {
+    "Mile": "WK07+65.5",
+    "LineSN": 851,
+    "temperature": 28.0,
+    "ID": 586
+  },
+  {
+    "Mile": "WK07+71.75",
+    "LineSN": 850,
+    "temperature": 22.4,
+    "ID": 587
+  },
+  {
+    "Mile": "WK07+78",
+    "LineSN": 849,
+    "temperature": 29.5,
+    "ID": 588
+  },
+  {
+    "Mile": "WK07+84.25",
+    "LineSN": 848,
+    "temperature": 21.6,
+    "ID": 589
+  },
+  {
+    "Mile": "WK07+90.5",
+    "LineSN": 847,
+    "temperature": 22.4,
+    "ID": 590
+  },
+  {
+    "Mile": "WK07+96.75",
+    "LineSN": 846,
+    "temperature": 21.6,
+    "ID": 591
+  },
+  {
+    "Mile": "WK07+103",
+    "LineSN": 845,
+    "temperature": 26.3,
+    "ID": 592
+  },
+  {
+    "Mile": "WK07+109.25",
+    "LineSN": 844,
+    "temperature": 26.5,
+    "ID": 593
+  },
+  {
+    "Mile": "WK07+115.5",
+    "LineSN": 843,
+    "temperature": 27.8,
+    "ID": 594
+  },
+  {
+    "Mile": "WK07+121.75",
+    "LineSN": 842,
+    "temperature": 22.8,
+    "ID": 595
+  },
+  {
+    "Mile": "WK07+128",
+    "LineSN": 841,
+    "temperature": 29.5,
+    "ID": 596
+  },
+  {
+    "Mile": "WK07+134.25",
+    "LineSN": 830,
+    "temperature": 23.1,
+    "ID": 597
+  },
+  {
+    "Mile": "WK07+140.5",
+    "LineSN": 829,
+    "temperature": 27.9,
+    "ID": 598
+  },
+  {
+    "Mile": "WK07+146.75",
+    "LineSN": 828,
+    "temperature": 23.9,
+    "ID": 599
+  },
+  {
+    "Mile": "WK07+153",
+    "LineSN": 827,
+    "temperature": 24.7,
+    "ID": 600
+  },
+  {
+    "Mile": "WK07+159.25",
+    "LineSN": 826,
+    "temperature": 25.1,
+    "ID": 601
+  },
+  {
+    "Mile": "WK07+165.5",
+    "LineSN": 825,
+    "temperature": 26.9,
+    "ID": 602
+  },
+  {
+    "Mile": "WK07+171.75",
+    "LineSN": 824,
+    "temperature": 21.1,
+    "ID": 603
+  },
+  {
+    "Mile": "WK07+178",
+    "LineSN": 823,
+    "temperature": 20.4,
+    "ID": 604
+  },
+  {
+    "Mile": "WK07+184.25",
+    "LineSN": 822,
+    "temperature": 20.9,
+    "ID": 605
+  },
+  {
+    "Mile": "WK07+190.5",
+    "LineSN": 821,
+    "temperature": 23.7,
+    "ID": 606
+  },
+  {
+    "Mile": "WK07+196.75",
+    "LineSN": 820,
+    "temperature": 24.6,
+    "ID": 607
+  },
+  {
+    "Mile": "WK07+203",
+    "LineSN": 819,
+    "temperature": 29.5,
+    "ID": 608
+  },
+  {
+    "Mile": "WK07+209.25",
+    "LineSN": 818,
+    "temperature": 22.6,
+    "ID": 609
+  },
+  {
+    "Mile": "WK07+215.5",
+    "LineSN": 817,
+    "temperature": 28.2,
+    "ID": 610
+  },
+  {
+    "Mile": "WK07+221.75",
+    "LineSN": 816,
+    "temperature": 29.4,
+    "ID": 611
+  },
+  {
+    "Mile": "WK07+228",
+    "LineSN": 815,
+    "temperature": 24.3,
+    "ID": 612
+  },
+  {
+    "Mile": "WK07+234.25",
+    "LineSN": 814,
+    "temperature": 20.1,
+    "ID": 613
+  },
+  {
+    "Mile": "WK07+240.5",
+    "LineSN": 813,
+    "temperature": 20.6,
+    "ID": 614
+  },
+  {
+    "Mile": "WK07+246.75",
+    "LineSN": 812,
+    "temperature": 24.3,
+    "ID": 615
+  },
+  {
+    "Mile": "WK07+253",
+    "LineSN": 811,
+    "temperature": 28.3,
+    "ID": 616
+  },
+  {
+    "Mile": "WK07+259.25",
+    "LineSN": 800,
+    "temperature": 24.1,
+    "ID": 617
+  },
+  {
+    "Mile": "WK07+265.5",
+    "LineSN": 799,
+    "temperature": 29.3,
+    "ID": 618
+  },
+  {
+    "Mile": "WK07+271.75",
+    "LineSN": 798,
+    "temperature": 27.2,
+    "ID": 619
+  },
+  {
+    "Mile": "WK07+278",
+    "LineSN": 797,
+    "temperature": 23.2,
+    "ID": 620
+  },
+  {
+    "Mile": "WK07+284.25",
+    "LineSN": 796,
+    "temperature": 28.2,
+    "ID": 621
+  },
+  {
+    "Mile": "WK07+290.5",
+    "LineSN": 795,
+    "temperature": 24.4,
+    "ID": 622
+  },
+  {
+    "Mile": "WK07+296.75",
+    "LineSN": 794,
+    "temperature": 27.7,
+    "ID": 623
+  },
+  {
+    "Mile": "WK07+303",
+    "LineSN": 793,
+    "temperature": 28.0,
+    "ID": 624
+  },
+  {
+    "Mile": "WK07+309.25",
+    "LineSN": 792,
+    "temperature": 24.1,
+    "ID": 625
+  },
+  {
+    "Mile": "WK07+315.5",
+    "LineSN": 791,
+    "temperature": 21.7,
+    "ID": 626
+  },
+  {
+    "Mile": "WK07+321.75",
+    "LineSN": 790,
+    "temperature": 21.3,
+    "ID": 627
+  },
+  {
+    "Mile": "WK07+328",
+    "LineSN": 789,
+    "temperature": 21.5,
+    "ID": 628
+  },
+  {
+    "Mile": "WK07+334.25",
+    "LineSN": 788,
+    "temperature": 26.9,
+    "ID": 629
+  },
+  {
+    "Mile": "WK07+340.5",
+    "LineSN": 787,
+    "temperature": 20.0,
+    "ID": 630
+  },
+  {
+    "Mile": "WK07+346.75",
+    "LineSN": 786,
+    "temperature": 27.9,
+    "ID": 631
+  },
+  {
+    "Mile": "WK07+353",
+    "LineSN": 785,
+    "temperature": 29.2,
+    "ID": 632
+  },
+  {
+    "Mile": "WK07+359.25",
+    "LineSN": 784,
+    "temperature": 27.0,
+    "ID": 633
+  },
+  {
+    "Mile": "WK07+365.5",
+    "LineSN": 783,
+    "temperature": 26.9,
+    "ID": 634
+  },
+  {
+    "Mile": "WK07+371.75",
+    "LineSN": 782,
+    "temperature": 25.5,
+    "ID": 635
+  },
+  {
+    "Mile": "WK07+378",
+    "LineSN": 781,
+    "temperature": 24.1,
+    "ID": 636
+  },
+  {
+    "Mile": "WK07+384.25",
+    "LineSN": 770,
+    "temperature": 23.8,
+    "ID": 637
+  },
+  {
+    "Mile": "WK07+390.5",
+    "LineSN": 769,
+    "temperature": 28.6,
+    "ID": 638
+  },
+  {
+    "Mile": "WK07+396.75",
+    "LineSN": 768,
+    "temperature": 29.7,
+    "ID": 639
+  },
+  {
+    "Mile": "WK07+403",
+    "LineSN": 767,
+    "temperature": 27.6,
+    "ID": 640
+  },
+  {
+    "Mile": "WK07+409.25",
+    "LineSN": 766,
+    "temperature": 26.5,
+    "ID": 641
+  },
+  {
+    "Mile": "WK07+415.5",
+    "LineSN": 765,
+    "temperature": 27.2,
+    "ID": 642
+  },
+  {
+    "Mile": "WK07+421.75",
+    "LineSN": 764,
+    "temperature": 20.5,
+    "ID": 643
+  },
+  {
+    "Mile": "WK07+428",
+    "LineSN": 763,
+    "temperature": 28.2,
+    "ID": 644
+  },
+  {
+    "Mile": "WK07+434.25",
+    "LineSN": 762,
+    "temperature": 26.0,
+    "ID": 645
+  },
+  {
+    "Mile": "WK07+440.5",
+    "LineSN": 761,
+    "temperature": 24.9,
+    "ID": 646
+  },
+  {
+    "Mile": "WK07+446.75",
+    "LineSN": 760,
+    "temperature": 20.2,
+    "ID": 647
+  },
+  {
+    "Mile": "WK07+453",
+    "LineSN": 759,
+    "temperature": 27.1,
+    "ID": 648
+  },
+  {
+    "Mile": "WK07+459.25",
+    "LineSN": 758,
+    "temperature": 27.0,
+    "ID": 649
+  },
+  {
+    "Mile": "WK07+465.5",
+    "LineSN": 757,
+    "temperature": 21.9,
+    "ID": 650
+  },
+  {
+    "Mile": "WK07+471.75",
+    "LineSN": 756,
+    "temperature": 27.4,
+    "ID": 651
+  },
+  {
+    "Mile": "WK07+478",
+    "LineSN": 755,
+    "temperature": 28.8,
+    "ID": 652
+  },
+  {
+    "Mile": "WK07+484.25",
+    "LineSN": 754,
+    "temperature": 24.6,
+    "ID": 653
+  },
+  {
+    "Mile": "WK07+490.5",
+    "LineSN": 753,
+    "temperature": 21.2,
+    "ID": 654
+  },
+  {
+    "Mile": "WK07+496.75",
+    "LineSN": 752,
+    "temperature": 29.0,
+    "ID": 655
+  },
+  {
+    "Mile": "WK07+503",
+    "LineSN": 751,
+    "temperature": 26.1,
+    "ID": 656
+  },
+  {
+    "Mile": "WK07+509.25",
+    "LineSN": 740,
+    "temperature": 20.6,
+    "ID": 657
+  },
+  {
+    "Mile": "WK07+515.5",
+    "LineSN": 739,
+    "temperature": 24.0,
+    "ID": 658
+  },
+  {
+    "Mile": "WK07+521.75",
+    "LineSN": 738,
+    "temperature": 20.8,
+    "ID": 659
+  },
+  {
+    "Mile": "WK07+528",
+    "LineSN": 737,
+    "temperature": 24.0,
+    "ID": 660
+  },
+  {
+    "Mile": "WK07+534.25",
+    "LineSN": 736,
+    "temperature": 29.4,
+    "ID": 661
+  },
+  {
+    "Mile": "WK07+540.5",
+    "LineSN": 735,
+    "temperature": 29.5,
+    "ID": 662
+  },
+  {
+    "Mile": "WK07+546.75",
+    "LineSN": 734,
+    "temperature": 29.6,
+    "ID": 663
+  },
+  {
+    "Mile": "WK07+553",
+    "LineSN": 733,
+    "temperature": 24.6,
+    "ID": 664
+  },
+  {
+    "Mile": "WK07+559.25",
+    "LineSN": 732,
+    "temperature": 21.4,
+    "ID": 665
+  },
+  {
+    "Mile": "WK07+565.5",
+    "LineSN": 731,
+    "temperature": 29.5,
+    "ID": 666
+  },
+  {
+    "Mile": "WK07+571.75",
+    "LineSN": 730,
+    "temperature": 25.1,
+    "ID": 667
+  },
+  {
+    "Mile": "WK07+578",
+    "LineSN": 729,
+    "temperature": 24.6,
+    "ID": 668
+  },
+  {
+    "Mile": "WK07+584.25",
+    "LineSN": 728,
+    "temperature": 29.2,
+    "ID": 669
+  },
+  {
+    "Mile": "WK07+590.5",
+    "LineSN": 727,
+    "temperature": 24.3,
+    "ID": 670
+  },
+  {
+    "Mile": "WK07+596.75",
+    "LineSN": 726,
+    "temperature": 28.0,
+    "ID": 671
+  },
+  {
+    "Mile": "WK07+603",
+    "LineSN": 725,
+    "temperature": 28.6,
+    "ID": 672
+  },
+  {
+    "Mile": "WK07+609.25",
+    "LineSN": 724,
+    "temperature": 22.3,
+    "ID": 673
+  },
+  {
+    "Mile": "WK07+615.5",
+    "LineSN": 723,
+    "temperature": 28.4,
+    "ID": 674
+  },
+  {
+    "Mile": "WK07+621.75",
+    "LineSN": 722,
+    "temperature": 25.8,
+    "ID": 675
+  },
+  {
+    "Mile": "WK07+628",
+    "LineSN": 721,
+    "temperature": 23.1,
+    "ID": 676
+  },
+  {
+    "Mile": "WK07+634.25",
+    "LineSN": 710,
+    "temperature": 24.0,
+    "ID": 677
+  },
+  {
+    "Mile": "WK07+640.5",
+    "LineSN": 709,
+    "temperature": 21.2,
+    "ID": 678
+  },
+  {
+    "Mile": "WK07+646.75",
+    "LineSN": 708,
+    "temperature": 25.4,
+    "ID": 679
+  },
+  {
+    "Mile": "WK07+653",
+    "LineSN": 707,
+    "temperature": 24.3,
+    "ID": 680
+  },
+  {
+    "Mile": "WK07+659.25",
+    "LineSN": 706,
+    "temperature": 25.1,
+    "ID": 681
+  },
+  {
+    "Mile": "WK07+665.5",
+    "LineSN": 705,
+    "temperature": 23.2,
+    "ID": 682
+  },
+  {
+    "Mile": "WK07+671.75",
+    "LineSN": 704,
+    "temperature": 26.7,
+    "ID": 683
+  },
+  {
+    "Mile": "WK07+678",
+    "LineSN": 703,
+    "temperature": 21.8,
+    "ID": 684
+  },
+  {
+    "Mile": "WK07+684.25",
+    "LineSN": 702,
+    "temperature": 23.0,
+    "ID": 685
+  },
+  {
+    "Mile": "WK07+690.5",
+    "LineSN": 701,
+    "temperature": 21.4,
+    "ID": 686
+  },
+  {
+    "Mile": "WK07+696.75",
+    "LineSN": 700,
+    "temperature": 22.9,
+    "ID": 687
+  },
+  {
+    "Mile": "WK07+703",
+    "LineSN": 699,
+    "temperature": 24.7,
+    "ID": 688
+  },
+  {
+    "Mile": "WK07+709.25",
+    "LineSN": 698,
+    "temperature": 23.2,
+    "ID": 689
+  },
+  {
+    "Mile": "WK07+715.5",
+    "LineSN": 697,
+    "temperature": 23.8,
+    "ID": 690
+  },
+  {
+    "Mile": "WK07+721.75",
+    "LineSN": 696,
+    "temperature": 29.5,
+    "ID": 691
+  },
+  {
+    "Mile": "WK07+728",
+    "LineSN": 695,
+    "temperature": 22.5,
+    "ID": 692
+  },
+  {
+    "Mile": "WK07+734.25",
+    "LineSN": 694,
+    "temperature": 22.3,
+    "ID": 693
+  },
+  {
+    "Mile": "WK07+740.5",
+    "LineSN": 693,
+    "temperature": 29.7,
+    "ID": 694
+  },
+  {
+    "Mile": "WK07+746.75",
+    "LineSN": 692,
+    "temperature": 25.2,
+    "ID": 695
+  },
+  {
+    "Mile": "WK07+753",
+    "LineSN": 691,
+    "temperature": 26.6,
+    "ID": 696
+  },
+  {
+    "Mile": "WK07+759.25",
+    "LineSN": 680,
+    "temperature": 23.8,
+    "ID": 697
+  },
+  {
+    "Mile": "WK07+765.5",
+    "LineSN": 679,
+    "temperature": 26.3,
+    "ID": 698
+  },
+  {
+    "Mile": "WK07+771.75",
+    "LineSN": 678,
+    "temperature": 22.1,
+    "ID": 699
+  },
+  {
+    "Mile": "WK07+778",
+    "LineSN": 677,
+    "temperature": 26.9,
+    "ID": 700
+  },
+  {
+    "Mile": "WK07+784.25",
+    "LineSN": 676,
+    "temperature": 29.0,
+    "ID": 701
+  },
+  {
+    "Mile": "WK07+790.5",
+    "LineSN": 675,
+    "temperature": 26.9,
+    "ID": 702
+  },
+  {
+    "Mile": "WK07+796.75",
+    "LineSN": 674,
+    "temperature": 20.1,
+    "ID": 703
+  },
+  {
+    "Mile": "WK07+803",
+    "LineSN": 673,
+    "temperature": 27.3,
+    "ID": 704
+  },
+  {
+    "Mile": "WK07+809.25",
+    "LineSN": 672,
+    "temperature": 25.3,
+    "ID": 705
+  },
+  {
+    "Mile": "WK07+815.5",
+    "LineSN": 671,
+    "temperature": 29.1,
+    "ID": 706
+  },
+  {
+    "Mile": "WK07+821.75",
+    "LineSN": 670,
+    "temperature": 28.9,
+    "ID": 707
+  },
+  {
+    "Mile": "WK07+828",
+    "LineSN": 669,
+    "temperature": 25.2,
+    "ID": 708
+  },
+  {
+    "Mile": "WK07+834.25",
+    "LineSN": 668,
+    "temperature": 28.5,
+    "ID": 709
+  },
+  {
+    "Mile": "WK07+840.5",
+    "LineSN": 667,
+    "temperature": 22.1,
+    "ID": 710
+  },
+  {
+    "Mile": "WK07+846.75",
+    "LineSN": 666,
+    "temperature": 29.4,
+    "ID": 711
+  },
+  {
+    "Mile": "WK07+853",
+    "LineSN": 665,
+    "temperature": 28.8,
+    "ID": 712
+  },
+  {
+    "Mile": "WK07+859.25",
+    "LineSN": 664,
+    "temperature": 24.9,
+    "ID": 713
+  },
+  {
+    "Mile": "WK07+865.5",
+    "LineSN": 663,
+    "temperature": 23.5,
+    "ID": 714
+  },
+  {
+    "Mile": "WK07+871.75",
+    "LineSN": 662,
+    "temperature": 25.9,
+    "ID": 715
+  },
+  {
+    "Mile": "WK07+878",
+    "LineSN": 661,
+    "temperature": 21.5,
+    "ID": 716
+  },
+  {
+    "Mile": "WK07+884.25",
+    "LineSN": 650,
+    "temperature": 28.9,
+    "ID": 717
+  },
+  {
+    "Mile": "WK07+890.5",
+    "LineSN": 649,
+    "temperature": 23.5,
+    "ID": 718
+  },
+  {
+    "Mile": "WK07+896.75",
+    "LineSN": 648,
+    "temperature": 24.7,
+    "ID": 719
+  },
+  {
+    "Mile": "WK07+903",
+    "LineSN": 647,
+    "temperature": 29.8,
+    "ID": 720
+  },
+  {
+    "Mile": "WK07+909.25",
+    "LineSN": 646,
+    "temperature": 24.2,
+    "ID": 721
+  },
+  {
+    "Mile": "WK07+915.5",
+    "LineSN": 645,
+    "temperature": 29.0,
+    "ID": 722
+  },
+  {
+    "Mile": "WK07+921.75",
+    "LineSN": 644,
+    "temperature": 24.3,
+    "ID": 723
+  },
+  {
+    "Mile": "WK07+928",
+    "LineSN": 643,
+    "temperature": 22.4,
+    "ID": 724
+  },
+  {
+    "Mile": "WK07+934.25",
+    "LineSN": 642,
+    "temperature": 23.8,
+    "ID": 725
+  },
+  {
+    "Mile": "WK07+940.5",
+    "LineSN": 641,
+    "temperature": 23.1,
+    "ID": 726
+  },
+  {
+    "Mile": "WK07+946.75",
+    "LineSN": 640,
+    "temperature": 23.5,
+    "ID": 727
+  },
+  {
+    "Mile": "WK07+953",
+    "LineSN": 639,
+    "temperature": 21.8,
+    "ID": 728
+  },
+  {
+    "Mile": "WK07+959.25",
+    "LineSN": 638,
+    "temperature": 24.4,
+    "ID": 729
+  },
+  {
+    "Mile": "WK07+965.5",
+    "LineSN": 637,
+    "temperature": 27.5,
+    "ID": 730
+  },
+  {
+    "Mile": "WK07+971.75",
+    "LineSN": 636,
+    "temperature": 23.9,
+    "ID": 731
+  },
+  {
+    "Mile": "WK07+978",
+    "LineSN": 635,
+    "temperature": 29.4,
+    "ID": 732
+  },
+  {
+    "Mile": "WK07+984.25",
+    "LineSN": 634,
+    "temperature": 20.8,
+    "ID": 733
+  },
+  {
+    "Mile": "WK07+990.5",
+    "LineSN": 633,
+    "temperature": 24.1,
+    "ID": 734
+  },
+  {
+    "Mile": "WK07+996.75",
+    "LineSN": 632,
+    "temperature": 28.2,
+    "ID": 735
+  },
+  {
+    "Mile": "WK08+003",
+    "LineSN": 631,
+    "temperature": 21.3,
+    "ID": 736
+  },
+  {
+    "Mile": "WK08+9.25",
+    "LineSN": 620,
+    "temperature": 22.6,
+    "ID": 737
+  },
+  {
+    "Mile": "WK08+15.5",
+    "LineSN": 619,
+    "temperature": 27.6,
+    "ID": 738
+  },
+  {
+    "Mile": "WK08+21.75",
+    "LineSN": 618,
+    "temperature": 29.9,
+    "ID": 739
+  },
+  {
+    "Mile": "WK08+28",
+    "LineSN": 617,
+    "temperature": 21.5,
+    "ID": 740
+  },
+  {
+    "Mile": "WK08+34.25",
+    "LineSN": 616,
+    "temperature": 27.9,
+    "ID": 741
+  },
+  {
+    "Mile": "WK08+40.5",
+    "LineSN": 615,
+    "temperature": 28.9,
+    "ID": 742
+  },
+  {
+    "Mile": "WK08+46.75",
+    "LineSN": 614,
+    "temperature": 27.0,
+    "ID": 743
+  },
+  {
+    "Mile": "WK08+53",
+    "LineSN": 613,
+    "temperature": 22.0,
+    "ID": 744
+  },
+  {
+    "Mile": "WK08+59.25",
+    "LineSN": 612,
+    "temperature": 21.2,
+    "ID": 745
+  },
+  {
+    "Mile": "WK08+65.5",
+    "LineSN": 611,
+    "temperature": 26.0,
+    "ID": 746
+  },
+  {
+    "Mile": "WK08+71.75",
+    "LineSN": 610,
+    "temperature": 21.5,
+    "ID": 747
+  },
+  {
+    "Mile": "WK08+78",
+    "LineSN": 609,
+    "temperature": 27.7,
+    "ID": 748
+  },
+  {
+    "Mile": "WK08+84.25",
+    "LineSN": 608,
+    "temperature": 29.7,
+    "ID": 749
+  },
+  {
+    "Mile": "WK08+90.5",
+    "LineSN": 607,
+    "temperature": 28.4,
+    "ID": 750
+  },
+  {
+    "Mile": "WK08+96.75",
+    "LineSN": 606,
+    "temperature": 21.1,
+    "ID": 751
+  },
+  {
+    "Mile": "WK08+103",
+    "LineSN": 605,
+    "temperature": 27.4,
+    "ID": 752
+  },
+  {
+    "Mile": "WK08+109.25",
+    "LineSN": 604,
+    "temperature": 26.4,
+    "ID": 753
+  },
+  {
+    "Mile": "WK08+115.5",
+    "LineSN": 603,
+    "temperature": 25.7,
+    "ID": 754
+  },
+  {
+    "Mile": "WK08+121.75",
+    "LineSN": 602,
+    "temperature": 21.2,
+    "ID": 755
+  },
+  {
+    "Mile": "WK08+128",
+    "LineSN": 601,
+    "temperature": 26.0,
+    "ID": 756
+  },
+  {
+    "Mile": "WK08+134.25",
+    "LineSN": 590,
+    "temperature": 23.7,
+    "ID": 757
+  },
+  {
+    "Mile": "WK08+140.5",
+    "LineSN": 589,
+    "temperature": 23.9,
+    "ID": 758
+  },
+  {
+    "Mile": "WK08+146.75",
+    "LineSN": 588,
+    "temperature": 23.5,
+    "ID": 759
+  },
+  {
+    "Mile": "WK08+153",
+    "LineSN": 587,
+    "temperature": 26.0,
+    "ID": 760
+  },
+  {
+    "Mile": "WK08+159.25",
+    "LineSN": 586,
+    "temperature": 20.2,
+    "ID": 761
+  },
+  {
+    "Mile": "WK08+165.5",
+    "LineSN": 585,
+    "temperature": 27.3,
+    "ID": 762
+  },
+  {
+    "Mile": "WK08+171.75",
+    "LineSN": 584,
+    "temperature": 25.6,
+    "ID": 763
+  },
+  {
+    "Mile": "WK08+178",
+    "LineSN": 583,
+    "temperature": 27.7,
+    "ID": 764
+  },
+  {
+    "Mile": "WK08+184.25",
+    "LineSN": 582,
+    "temperature": 23.1,
+    "ID": 765
+  },
+  {
+    "Mile": "WK08+190.5",
+    "LineSN": 581,
+    "temperature": 22.2,
+    "ID": 766
+  },
+  {
+    "Mile": "WK08+196.75",
+    "LineSN": 580,
+    "temperature": 26.2,
+    "ID": 767
+  },
+  {
+    "Mile": "WK08+203",
+    "LineSN": 579,
+    "temperature": 21.2,
+    "ID": 768
+  },
+  {
+    "Mile": "WK08+209.25",
+    "LineSN": 578,
+    "temperature": 21.1,
+    "ID": 769
+  },
+  {
+    "Mile": "WK08+215.5",
+    "LineSN": 577,
+    "temperature": 29.0,
+    "ID": 770
+  },
+  {
+    "Mile": "WK08+221.75",
+    "LineSN": 576,
+    "temperature": 25.3,
+    "ID": 771
+  },
+  {
+    "Mile": "WK08+228",
+    "LineSN": 575,
+    "temperature": 27.3,
+    "ID": 772
+  },
+  {
+    "Mile": "WK08+234.25",
+    "LineSN": 574,
+    "temperature": 28.0,
+    "ID": 773
+  },
+  {
+    "Mile": "WK08+240.5",
+    "LineSN": 573,
+    "temperature": 27.1,
+    "ID": 774
+  },
+  {
+    "Mile": "WK08+246.75",
+    "LineSN": 572,
+    "temperature": 26.1,
+    "ID": 775
+  },
+  {
+    "Mile": "WK08+253",
+    "LineSN": 571,
+    "temperature": 23.5,
+    "ID": 776
+  },
+  {
+    "Mile": "WK08+259.25",
+    "LineSN": 560,
+    "temperature": 22.3,
+    "ID": 777
+  },
+  {
+    "Mile": "WK08+265.5",
+    "LineSN": 559,
+    "temperature": 29.0,
+    "ID": 778
+  },
+  {
+    "Mile": "WK08+271.75",
+    "LineSN": 558,
+    "temperature": 29.2,
+    "ID": 779
+  },
+  {
+    "Mile": "WK08+278",
+    "LineSN": 557,
+    "temperature": 27.4,
+    "ID": 780
+  },
+  {
+    "Mile": "WK08+284.25",
+    "LineSN": 556,
+    "temperature": 24.3,
+    "ID": 781
+  },
+  {
+    "Mile": "WK08+290.5",
+    "LineSN": 555,
+    "temperature": 20.6,
+    "ID": 782
+  },
+  {
+    "Mile": "WK08+296.75",
+    "LineSN": 554,
+    "temperature": 27.6,
+    "ID": 783
+  },
+  {
+    "Mile": "WK08+303",
+    "LineSN": 553,
+    "temperature": 26.1,
+    "ID": 784
+  },
+  {
+    "Mile": "WK08+309.25",
+    "LineSN": 552,
+    "temperature": 22.0,
+    "ID": 785
+  },
+  {
+    "Mile": "WK08+315.5",
+    "LineSN": 551,
+    "temperature": 25.0,
+    "ID": 786
+  },
+  {
+    "Mile": "WK08+321.75",
+    "LineSN": 550,
+    "temperature": 24.0,
+    "ID": 787
+  },
+  {
+    "Mile": "WK08+328",
+    "LineSN": 549,
+    "temperature": 28.6,
+    "ID": 788
+  },
+  {
+    "Mile": "WK08+334.25",
+    "LineSN": 548,
+    "temperature": 21.8,
+    "ID": 789
+  },
+  {
+    "Mile": "WK08+340.5",
+    "LineSN": 547,
+    "temperature": 25.9,
+    "ID": 790
+  },
+  {
+    "Mile": "WK08+346.75",
+    "LineSN": 546,
+    "temperature": 20.2,
+    "ID": 791
+  },
+  {
+    "Mile": "WK08+353",
+    "LineSN": 545,
+    "temperature": 22.5,
+    "ID": 792
+  },
+  {
+    "Mile": "WK08+359.25",
+    "LineSN": 544,
+    "temperature": 27.1,
+    "ID": 793
+  },
+  {
+    "Mile": "WK08+365.5",
+    "LineSN": 543,
+    "temperature": 20.9,
+    "ID": 794
+  },
+  {
+    "Mile": "WK08+371.75",
+    "LineSN": 542,
+    "temperature": 20.4,
+    "ID": 795
+  },
+  {
+    "Mile": "WK08+378",
+    "LineSN": 541,
+    "temperature": 27.6,
+    "ID": 796
+  },
+  {
+    "Mile": "WK08+384.25",
+    "LineSN": 530,
+    "temperature": 22.0,
+    "ID": 797
+  },
+  {
+    "Mile": "WK08+390.5",
+    "LineSN": 529,
+    "temperature": 22.9,
+    "ID": 798
+  },
+  {
+    "Mile": "WK08+396.75",
+    "LineSN": 528,
+    "temperature": 20.7,
+    "ID": 799
+  },
+  {
+    "Mile": "WK08+403",
+    "LineSN": 527,
+    "temperature": 28.8,
+    "ID": 800
+  },
+  {
+    "Mile": "WK08+409.25",
+    "LineSN": 526,
+    "temperature": 28.4,
+    "ID": 801
+  },
+  {
+    "Mile": "WK08+415.5",
+    "LineSN": 525,
+    "temperature": 27.7,
+    "ID": 802
+  },
+  {
+    "Mile": "WK08+421.75",
+    "LineSN": 524,
+    "temperature": 22.5,
+    "ID": 803
+  },
+  {
+    "Mile": "WK08+428",
+    "LineSN": 523,
+    "temperature": 22.1,
+    "ID": 804
+  },
+  {
+    "Mile": "WK08+434.25",
+    "LineSN": 522,
+    "temperature": 22.3,
+    "ID": 805
+  },
+  {
+    "Mile": "WK08+440.5",
+    "LineSN": 521,
+    "temperature": 27.9,
+    "ID": 806
+  },
+  {
+    "Mile": "WK08+446.75",
+    "LineSN": 520,
+    "temperature": 21.7,
+    "ID": 807
+  },
+  {
+    "Mile": "WK08+453",
+    "LineSN": 519,
+    "temperature": 21.7,
+    "ID": 808
+  },
+  {
+    "Mile": "WK08+459.25",
+    "LineSN": 518,
+    "temperature": 25.7,
+    "ID": 809
+  },
+  {
+    "Mile": "WK08+465.5",
+    "LineSN": 517,
+    "temperature": 29.9,
+    "ID": 810
+  },
+  {
+    "Mile": "WK08+471.75",
+    "LineSN": 516,
+    "temperature": 26.3,
+    "ID": 811
+  },
+  {
+    "Mile": "WK08+478",
+    "LineSN": 515,
+    "temperature": 22.0,
+    "ID": 812
+  },
+  {
+    "Mile": "WK08+484.25",
+    "LineSN": 514,
+    "temperature": 26.5,
+    "ID": 813
+  },
+  {
+    "Mile": "WK08+490.5",
+    "LineSN": 513,
+    "temperature": 25.8,
+    "ID": 814
+  },
+  {
+    "Mile": "WK08+496.75",
+    "LineSN": 512,
+    "temperature": 27.6,
+    "ID": 815
+  },
+  {
+    "Mile": "WK08+503",
+    "LineSN": 511,
+    "temperature": 28.0,
+    "ID": 816
+  },
+  {
+    "Mile": "WK08+509.25",
+    "LineSN": 500,
+    "temperature": 21.6,
+    "ID": 817
+  },
+  {
+    "Mile": "WK08+515.5",
+    "LineSN": 499,
+    "temperature": 29.2,
+    "ID": 818
+  },
+  {
+    "Mile": "WK08+521.75",
+    "LineSN": 498,
+    "temperature": 28.7,
+    "ID": 819
+  },
+  {
+    "Mile": "WK08+528",
+    "LineSN": 497,
+    "temperature": 24.6,
+    "ID": 820
+  },
+  {
+    "Mile": "WK08+534.25",
+    "LineSN": 496,
+    "temperature": 27.2,
+    "ID": 821
+  },
+  {
+    "Mile": "WK08+540.5",
+    "LineSN": 495,
+    "temperature": 21.9,
+    "ID": 822
+  },
+  {
+    "Mile": "WK08+546.75",
+    "LineSN": 494,
+    "temperature": 20.6,
+    "ID": 823
+  },
+  {
+    "Mile": "WK08+553",
+    "LineSN": 493,
+    "temperature": 25.2,
+    "ID": 824
+  },
+  {
+    "Mile": "WK08+559.25",
+    "LineSN": 492,
+    "temperature": 26.8,
+    "ID": 825
+  },
+  {
+    "Mile": "WK08+565.5",
+    "LineSN": 491,
+    "temperature": 20.1,
+    "ID": 826
+  },
+  {
+    "Mile": "WK08+571.75",
+    "LineSN": 490,
+    "temperature": 23.6,
+    "ID": 827
+  },
+  {
+    "Mile": "WK08+578",
+    "LineSN": 489,
+    "temperature": 26.3,
+    "ID": 828
+  },
+  {
+    "Mile": "WK08+584.25",
+    "LineSN": 488,
+    "temperature": 22.3,
+    "ID": 829
+  },
+  {
+    "Mile": "WK08+590.5",
+    "LineSN": 487,
+    "temperature": 26.9,
+    "ID": 830
+  },
+  {
+    "Mile": "WK08+596.75",
+    "LineSN": 486,
+    "temperature": 24.1,
+    "ID": 831
+  },
+  {
+    "Mile": "WK08+603",
+    "LineSN": 485,
+    "temperature": 24.2,
+    "ID": 832
+  },
+  {
+    "Mile": "WK08+609.25",
+    "LineSN": 484,
+    "temperature": 21.0,
+    "ID": 833
+  },
+  {
+    "Mile": "WK08+615.5",
+    "LineSN": 483,
+    "temperature": 20.9,
+    "ID": 834
+  },
+  {
+    "Mile": "WK08+621.75",
+    "LineSN": 482,
+    "temperature": 23.8,
+    "ID": 835
+  },
+  {
+    "Mile": "WK08+628",
+    "LineSN": 481,
+    "temperature": 23.2,
+    "ID": 836
+  },
+  {
+    "Mile": "WK08+634.25",
+    "LineSN": 470,
+    "temperature": 20.3,
+    "ID": 837
+  },
+  {
+    "Mile": "WK08+640.5",
+    "LineSN": 469,
+    "temperature": 25.2,
+    "ID": 838
+  },
+  {
+    "Mile": "WK08+646.75",
+    "LineSN": 468,
+    "temperature": 28.4,
+    "ID": 839
+  },
+  {
+    "Mile": "WK08+653",
+    "LineSN": 467,
+    "temperature": 21.5,
+    "ID": 840
+  },
+  {
+    "Mile": "WK08+659.25",
+    "LineSN": 466,
+    "temperature": 27.3,
+    "ID": 841
+  },
+  {
+    "Mile": "WK08+665.5",
+    "LineSN": 465,
+    "temperature": 23.1,
+    "ID": 842
+  },
+  {
+    "Mile": "WK08+671.75",
+    "LineSN": 464,
+    "temperature": 29.9,
+    "ID": 843
+  },
+  {
+    "Mile": "WK08+678",
+    "LineSN": 463,
+    "temperature": 22.3,
+    "ID": 844
+  },
+  {
+    "Mile": "WK08+684.25",
+    "LineSN": 462,
+    "temperature": 21.8,
+    "ID": 845
+  },
+  {
+    "Mile": "WK08+690.5",
+    "LineSN": 461,
+    "temperature": 29.9,
+    "ID": 846
+  },
+  {
+    "Mile": "WK08+696.75",
+    "LineSN": 460,
+    "temperature": 28.8,
+    "ID": 847
+  },
+  {
+    "Mile": "WK08+703",
+    "LineSN": 459,
+    "temperature": 28.5,
+    "ID": 848
+  },
+  {
+    "Mile": "WK08+709.25",
+    "LineSN": 458,
+    "temperature": 24.0,
+    "ID": 849
+  },
+  {
+    "Mile": "WK08+715.5",
+    "LineSN": 457,
+    "temperature": 25.7,
+    "ID": 850
+  },
+  {
+    "Mile": "WK08+721.75",
+    "LineSN": 456,
+    "temperature": 20.9,
+    "ID": 851
+  },
+  {
+    "Mile": "WK08+728",
+    "LineSN": 455,
+    "temperature": 23.2,
+    "ID": 852
+  },
+  {
+    "Mile": "WK08+734.25",
+    "LineSN": 454,
+    "temperature": 20.6,
+    "ID": 853
+  },
+  {
+    "Mile": "WK08+740.5",
+    "LineSN": 453,
+    "temperature": 29.4,
+    "ID": 854
+  },
+  {
+    "Mile": "WK08+746.75",
+    "LineSN": 452,
+    "temperature": 24.8,
+    "ID": 855
+  },
+  {
+    "Mile": "WK08+753",
+    "LineSN": 451,
+    "temperature": 24.3,
+    "ID": 856
+  },
+  {
+    "Mile": "WK08+759.25",
+    "LineSN": 440,
+    "temperature": 21.1,
+    "ID": 857
+  },
+  {
+    "Mile": "WK08+765.5",
+    "LineSN": 439,
+    "temperature": 24.3,
+    "ID": 858
+  },
+  {
+    "Mile": "WK08+771.75",
+    "LineSN": 438,
+    "temperature": 28.9,
+    "ID": 859
+  },
+  {
+    "Mile": "WK08+778",
+    "LineSN": 437,
+    "temperature": 29.1,
+    "ID": 860
+  },
+  {
+    "Mile": "WK08+784.25",
+    "LineSN": 436,
+    "temperature": 21.5,
+    "ID": 861
+  },
+  {
+    "Mile": "WK08+790.5",
+    "LineSN": 435,
+    "temperature": 25.1,
+    "ID": 862
+  },
+  {
+    "Mile": "WK08+796.75",
+    "LineSN": 434,
+    "temperature": 29.1,
+    "ID": 863
+  },
+  {
+    "Mile": "WK08+803",
+    "LineSN": 433,
+    "temperature": 20.9,
+    "ID": 864
+  },
+  {
+    "Mile": "WK08+809.25",
+    "LineSN": 432,
+    "temperature": 27.9,
+    "ID": 865
+  },
+  {
+    "Mile": "WK08+815.5",
+    "LineSN": 431,
+    "temperature": 27.9,
+    "ID": 866
+  },
+  {
+    "Mile": "WK08+821.75",
+    "LineSN": 430,
+    "temperature": 23.5,
+    "ID": 867
+  },
+  {
+    "Mile": "WK08+828",
+    "LineSN": 429,
+    "temperature": 25.8,
+    "ID": 868
+  },
+  {
+    "Mile": "WK08+834.25",
+    "LineSN": 428,
+    "temperature": 20.2,
+    "ID": 869
+  },
+  {
+    "Mile": "WK08+840.5",
+    "LineSN": 427,
+    "temperature": 22.9,
+    "ID": 870
+  },
+  {
+    "Mile": "WK08+846.75",
+    "LineSN": 426,
+    "temperature": 21.3,
+    "ID": 871
+  },
+  {
+    "Mile": "WK08+853",
+    "LineSN": 425,
+    "temperature": 21.0,
+    "ID": 872
+  },
+  {
+    "Mile": "WK08+859.25",
+    "LineSN": 424,
+    "temperature": 24.7,
+    "ID": 873
+  },
+  {
+    "Mile": "WK08+865.5",
+    "LineSN": 423,
+    "temperature": 27.2,
+    "ID": 874
+  },
+  {
+    "Mile": "WK08+871.75",
+    "LineSN": 422,
+    "temperature": 22.7,
+    "ID": 875
+  },
+  {
+    "Mile": "WK08+878",
+    "LineSN": 421,
+    "temperature": 25.2,
+    "ID": 876
+  },
+  {
+    "Mile": "WK08+884.25",
+    "LineSN": 410,
+    "temperature": 28.1,
+    "ID": 877
+  },
+  {
+    "Mile": "WK08+890.5",
+    "LineSN": 409,
+    "temperature": 21.7,
+    "ID": 878
+  },
+  {
+    "Mile": "WK08+896.75",
+    "LineSN": 408,
+    "temperature": 27.3,
+    "ID": 879
+  },
+  {
+    "Mile": "WK08+903",
+    "LineSN": 407,
+    "temperature": 20.3,
+    "ID": 880
+  },
+  {
+    "Mile": "WK08+909.25",
+    "LineSN": 406,
+    "temperature": 24.3,
+    "ID": 881
+  },
+  {
+    "Mile": "WK08+915.5",
+    "LineSN": 405,
+    "temperature": 26.2,
+    "ID": 882
+  },
+  {
+    "Mile": "WK08+921.75",
+    "LineSN": 404,
+    "temperature": 29.6,
+    "ID": 883
+  },
+  {
+    "Mile": "WK08+928",
+    "LineSN": 403,
+    "temperature": 23.6,
+    "ID": 884
+  },
+  {
+    "Mile": "WK08+934.25",
+    "LineSN": 402,
+    "temperature": 25.9,
+    "ID": 885
+  },
+  {
+    "Mile": "WK08+940.5",
+    "LineSN": 401,
+    "temperature": 22.6,
+    "ID": 886
+  },
+  {
+    "Mile": "WK08+946.75",
+    "LineSN": 400,
+    "temperature": 21.7,
+    "ID": 887
+  },
+  {
+    "Mile": "WK08+953",
+    "LineSN": 399,
+    "temperature": 21.2,
+    "ID": 888
+  },
+  {
+    "Mile": "WK08+959.25",
+    "LineSN": 398,
+    "temperature": 26.0,
+    "ID": 889
+  },
+  {
+    "Mile": "WK08+965.5",
+    "LineSN": 397,
+    "temperature": 29.4,
+    "ID": 890
+  },
+  {
+    "Mile": "WK08+971.75",
+    "LineSN": 396,
+    "temperature": 25.2,
+    "ID": 891
+  },
+  {
+    "Mile": "WK08+978",
+    "LineSN": 395,
+    "temperature": 25.8,
+    "ID": 892
+  },
+  {
+    "Mile": "WK08+984.25",
+    "LineSN": 394,
+    "temperature": 24.1,
+    "ID": 893
+  },
+  {
+    "Mile": "WK08+990.5",
+    "LineSN": 393,
+    "temperature": 24.7,
+    "ID": 894
+  },
+  {
+    "Mile": "WK08+996.75",
+    "LineSN": 392,
+    "temperature": 24.7,
+    "ID": 895
+  },
+  {
+    "Mile": "WK09+003",
+    "LineSN": 391,
+    "temperature": 21.9,
+    "ID": 896
+  },
+  {
+    "Mile": "WK09+9.25",
+    "LineSN": 380,
+    "temperature": 22.6,
+    "ID": 897
+  },
+  {
+    "Mile": "WK09+15.5",
+    "LineSN": 379,
+    "temperature": 20.5,
+    "ID": 898
+  },
+  {
+    "Mile": "WK09+21.75",
+    "LineSN": 378,
+    "temperature": 23.9,
+    "ID": 899
+  },
+  {
+    "Mile": "WK09+28",
+    "LineSN": 377,
+    "temperature": 29.7,
+    "ID": 900
+  },
+  {
+    "Mile": "WK09+34.25",
+    "LineSN": 376,
+    "temperature": 21.9,
+    "ID": 901
+  },
+  {
+    "Mile": "WK09+40.5",
+    "LineSN": 375,
+    "temperature": 24.7,
+    "ID": 902
+  },
+  {
+    "Mile": "WK09+46.75",
+    "LineSN": 374,
+    "temperature": 24.1,
+    "ID": 903
+  },
+  {
+    "Mile": "WK09+53",
+    "LineSN": 373,
+    "temperature": 28.4,
+    "ID": 904
+  },
+  {
+    "Mile": "WK09+59.25",
+    "LineSN": 372,
+    "temperature": 25.6,
+    "ID": 905
+  },
+  {
+    "Mile": "WK09+65.5",
+    "LineSN": 371,
+    "temperature": 21.6,
+    "ID": 906
+  },
+  {
+    "Mile": "WK09+71.75",
+    "LineSN": 370,
+    "temperature": 24.3,
+    "ID": 907
+  },
+  {
+    "Mile": "WK09+78",
+    "LineSN": 369,
+    "temperature": 24.0,
+    "ID": 908
+  },
+  {
+    "Mile": "WK09+84.25",
+    "LineSN": 368,
+    "temperature": 24.5,
+    "ID": 909
+  },
+  {
+    "Mile": "WK09+90.5",
+    "LineSN": 367,
+    "temperature": 26.6,
+    "ID": 910
+  },
+  {
+    "Mile": "WK09+96.75",
+    "LineSN": 366,
+    "temperature": 22.8,
+    "ID": 911
+  },
+  {
+    "Mile": "WK09+103",
+    "LineSN": 365,
+    "temperature": 26.3,
+    "ID": 912
+  },
+  {
+    "Mile": "WK09+109.25",
+    "LineSN": 364,
+    "temperature": 22.1,
+    "ID": 913
+  },
+  {
+    "Mile": "WK09+115.5",
+    "LineSN": 363,
+    "temperature": 29.6,
+    "ID": 914
+  },
+  {
+    "Mile": "WK09+121.75",
+    "LineSN": 362,
+    "temperature": 23.1,
+    "ID": 915
+  },
+  {
+    "Mile": "WK09+128",
+    "LineSN": 361,
+    "temperature": 27.9,
+    "ID": 916
+  },
+  {
+    "Mile": "WK09+134.25",
+    "LineSN": 350,
+    "temperature": 23.8,
+    "ID": 917
+  },
+  {
+    "Mile": "WK09+140.5",
+    "LineSN": 349,
+    "temperature": 22.9,
+    "ID": 918
+  },
+  {
+    "Mile": "WK09+146.75",
+    "LineSN": 348,
+    "temperature": 21.7,
+    "ID": 919
+  },
+  {
+    "Mile": "WK09+153",
+    "LineSN": 347,
+    "temperature": 23.6,
+    "ID": 920
+  },
+  {
+    "Mile": "WK09+159.25",
+    "LineSN": 346,
+    "temperature": 26.5,
+    "ID": 921
+  },
+  {
+    "Mile": "WK09+165.5",
+    "LineSN": 345,
+    "temperature": 23.6,
+    "ID": 922
+  },
+  {
+    "Mile": "WK09+171.75",
+    "LineSN": 344,
+    "temperature": 29.6,
+    "ID": 923
+  },
+  {
+    "Mile": "WK09+178",
+    "LineSN": 343,
+    "temperature": 20.9,
+    "ID": 924
+  },
+  {
+    "Mile": "WK09+184.25",
+    "LineSN": 342,
+    "temperature": 20.2,
+    "ID": 925
+  },
+  {
+    "Mile": "WK09+190.5",
+    "LineSN": 341,
+    "temperature": 24.5,
+    "ID": 926
+  },
+  {
+    "Mile": "WK09+196.75",
+    "LineSN": 340,
+    "temperature": 28.4,
+    "ID": 927
+  },
+  {
+    "Mile": "WK09+203",
+    "LineSN": 339,
+    "temperature": 21.9,
+    "ID": 928
+  },
+  {
+    "Mile": "WK09+209.25",
+    "LineSN": 338,
+    "temperature": 24.9,
+    "ID": 929
+  },
+  {
+    "Mile": "WK09+215.5",
+    "LineSN": 337,
+    "temperature": 20.6,
+    "ID": 930
+  },
+  {
+    "Mile": "WK09+221.75",
+    "LineSN": 336,
+    "temperature": 25.0,
+    "ID": 931
+  },
+  {
+    "Mile": "WK09+228",
+    "LineSN": 335,
+    "temperature": 24.4,
+    "ID": 932
+  },
+  {
+    "Mile": "WK09+234.25",
+    "LineSN": 334,
+    "temperature": 21.7,
+    "ID": 933
+  },
+  {
+    "Mile": "WK09+240.5",
+    "LineSN": 333,
+    "temperature": 20.8,
+    "ID": 934
+  },
+  {
+    "Mile": "WK09+246.75",
+    "LineSN": 332,
+    "temperature": 27.9,
+    "ID": 935
+  },
+  {
+    "Mile": "WK09+253",
+    "LineSN": 331,
+    "temperature": 29.8,
+    "ID": 936
+  },
+  {
+    "Mile": "WK09+259.25",
+    "LineSN": 320,
+    "temperature": 26.2,
+    "ID": 937
+  },
+  {
+    "Mile": "WK09+265.5",
+    "LineSN": 319,
+    "temperature": 25.6,
+    "ID": 938
+  },
+  {
+    "Mile": "WK09+271.75",
+    "LineSN": 318,
+    "temperature": 24.6,
+    "ID": 939
+  },
+  {
+    "Mile": "WK09+278",
+    "LineSN": 317,
+    "temperature": 28.5,
+    "ID": 940
+  },
+  {
+    "Mile": "WK09+284.25",
+    "LineSN": 316,
+    "temperature": 25.8,
+    "ID": 941
+  },
+  {
+    "Mile": "WK09+290.5",
+    "LineSN": 315,
+    "temperature": 25.3,
+    "ID": 942
+  },
+  {
+    "Mile": "WK09+296.75",
+    "LineSN": 314,
+    "temperature": 28.8,
+    "ID": 943
+  },
+  {
+    "Mile": "WK09+303",
+    "LineSN": 313,
+    "temperature": 22.1,
+    "ID": 944
+  },
+  {
+    "Mile": "WK09+309.25",
+    "LineSN": 312,
+    "temperature": 21.3,
+    "ID": 945
+  },
+  {
+    "Mile": "WK09+315.5",
+    "LineSN": 311,
+    "temperature": 24.1,
+    "ID": 946
+  },
+  {
+    "Mile": "WK09+321.75",
+    "LineSN": 310,
+    "temperature": 21.2,
+    "ID": 947
+  },
+  {
+    "Mile": "WK09+328",
+    "LineSN": 309,
+    "temperature": 22.2,
+    "ID": 948
+  },
+  {
+    "Mile": "WK09+334.25",
+    "LineSN": 308,
+    "temperature": 28.9,
+    "ID": 949
+  },
+  {
+    "Mile": "WK09+340.5",
+    "LineSN": 307,
+    "temperature": 24.0,
+    "ID": 950
+  },
+  {
+    "Mile": "WK09+346.75",
+    "LineSN": 306,
+    "temperature": 23.9,
+    "ID": 951
+  },
+  {
+    "Mile": "WK09+353",
+    "LineSN": 305,
+    "temperature": 29.8,
+    "ID": 952
+  },
+  {
+    "Mile": "WK09+359.25",
+    "LineSN": 304,
+    "temperature": 26.2,
+    "ID": 953
+  },
+  {
+    "Mile": "WK09+365.5",
+    "LineSN": 303,
+    "temperature": 23.9,
+    "ID": 954
+  },
+  {
+    "Mile": "WK09+371.75",
+    "LineSN": 302,
+    "temperature": 29.3,
+    "ID": 955
+  },
+  {
+    "Mile": "WK09+378",
+    "LineSN": 301,
+    "temperature": 28.6,
+    "ID": 956
+  },
+  {
+    "Mile": "WK09+384.25",
+    "LineSN": 290,
+    "temperature": 23.1,
+    "ID": 957
+  },
+  {
+    "Mile": "WK09+390.5",
+    "LineSN": 289,
+    "temperature": 24.8,
+    "ID": 958
+  },
+  {
+    "Mile": "WK09+396.75",
+    "LineSN": 288,
+    "temperature": 21.2,
+    "ID": 959
+  },
+  {
+    "Mile": "WK09+403",
+    "LineSN": 287,
+    "temperature": 21.4,
+    "ID": 960
+  },
+  {
+    "Mile": "WK09+409.25",
+    "LineSN": 286,
+    "temperature": 21.0,
+    "ID": 961
+  },
+  {
+    "Mile": "WK09+415.5",
+    "LineSN": 285,
+    "temperature": 29.3,
+    "ID": 962
+  },
+  {
+    "Mile": "WK09+421.75",
+    "LineSN": 284,
+    "temperature": 21.2,
+    "ID": 963
+  },
+  {
+    "Mile": "WK09+428",
+    "LineSN": 283,
+    "temperature": 20.8,
+    "ID": 964
+  },
+  {
+    "Mile": "WK09+434.25",
+    "LineSN": 282,
+    "temperature": 23.0,
+    "ID": 965
+  },
+  {
+    "Mile": "WK09+440.5",
+    "LineSN": 281,
+    "temperature": 24.9,
+    "ID": 966
+  },
+  {
+    "Mile": "WK09+446.75",
+    "LineSN": 280,
+    "temperature": 23.6,
+    "ID": 967
+  },
+  {
+    "Mile": "WK09+453",
+    "LineSN": 279,
+    "temperature": 22.9,
+    "ID": 968
+  },
+  {
+    "Mile": "WK09+459.25",
+    "LineSN": 278,
+    "temperature": 22.4,
+    "ID": 969
+  },
+  {
+    "Mile": "WK09+465.5",
+    "LineSN": 277,
+    "temperature": 24.9,
+    "ID": 970
+  },
+  {
+    "Mile": "WK09+471.75",
+    "LineSN": 276,
+    "temperature": 23.9,
+    "ID": 971
+  },
+  {
+    "Mile": "WK09+478",
+    "LineSN": 275,
+    "temperature": 27.1,
+    "ID": 972
+  },
+  {
+    "Mile": "WK09+484.25",
+    "LineSN": 274,
+    "temperature": 22.2,
+    "ID": 973
+  },
+  {
+    "Mile": "WK09+490.5",
+    "LineSN": 273,
+    "temperature": 27.0,
+    "ID": 974
+  },
+  {
+    "Mile": "WK09+496.75",
+    "LineSN": 272,
+    "temperature": 20.2,
+    "ID": 975
+  },
+  {
+    "Mile": "WK09+503",
+    "LineSN": 271,
+    "temperature": 26.6,
+    "ID": 976
+  },
+  {
+    "Mile": "WK09+509.25",
+    "LineSN": 260,
+    "temperature": 26.9,
+    "ID": 977
+  },
+  {
+    "Mile": "WK09+515.5",
+    "LineSN": 259,
+    "temperature": 23.6,
+    "ID": 978
+  },
+  {
+    "Mile": "WK09+521.75",
+    "LineSN": 258,
+    "temperature": 27.9,
+    "ID": 979
+  },
+  {
+    "Mile": "WK09+528",
+    "LineSN": 257,
+    "temperature": 20.2,
+    "ID": 980
+  },
+  {
+    "Mile": "WK09+534.25",
+    "LineSN": 256,
+    "temperature": 21.5,
+    "ID": 981
+  },
+  {
+    "Mile": "WK09+540.5",
+    "LineSN": 255,
+    "temperature": 28.6,
+    "ID": 982
+  },
+  {
+    "Mile": "WK09+546.75",
+    "LineSN": 254,
+    "temperature": 21.0,
+    "ID": 983
+  },
+  {
+    "Mile": "WK09+553",
+    "LineSN": 253,
+    "temperature": 26.3,
+    "ID": 984
+  },
+  {
+    "Mile": "WK09+559.25",
+    "LineSN": 252,
+    "temperature": 24.9,
+    "ID": 985
+  },
+  {
+    "Mile": "WK09+565.5",
+    "LineSN": 251,
+    "temperature": 26.1,
+    "ID": 986
+  },
+  {
+    "Mile": "WK09+571.75",
+    "LineSN": 250,
+    "temperature": 25.2,
+    "ID": 987
+  },
+  {
+    "Mile": "WK09+578",
+    "LineSN": 249,
+    "temperature": 24.8,
+    "ID": 988
+  },
+  {
+    "Mile": "WK09+584.25",
+    "LineSN": 248,
+    "temperature": 24.6,
+    "ID": 989
+  },
+  {
+    "Mile": "WK09+590.5",
+    "LineSN": 247,
+    "temperature": 22.6,
+    "ID": 990
+  },
+  {
+    "Mile": "WK09+596.75",
+    "LineSN": 246,
+    "temperature": 24.0,
+    "ID": 991
+  },
+  {
+    "Mile": "WK09+603",
+    "LineSN": 245,
+    "temperature": 22.3,
+    "ID": 992
+  },
+  {
+    "Mile": "WK09+609.25",
+    "LineSN": 244,
+    "temperature": 23.2,
+    "ID": 993
+  },
+  {
+    "Mile": "WK09+615.5",
+    "LineSN": 243,
+    "temperature": 22.1,
+    "ID": 994
+  },
+  {
+    "Mile": "WK09+621.75",
+    "LineSN": 242,
+    "temperature": 25.4,
+    "ID": 995
+  },
+  {
+    "Mile": "WK09+628",
+    "LineSN": 241,
+    "temperature": 25.8,
+    "ID": 996
+  },
+  {
+    "Mile": "WK09+634.25",
+    "LineSN": 230,
+    "temperature": 26.3,
+    "ID": 997
+  },
+  {
+    "Mile": "WK09+640.5",
+    "LineSN": 229,
+    "temperature": 28.8,
+    "ID": 998
+  },
+  {
+    "Mile": "WK09+646.75",
+    "LineSN": 228,
+    "temperature": 29.1,
+    "ID": 999
+  },
+  {
+    "Mile": "WK09+653",
+    "LineSN": 227,
+    "temperature": 22.5,
+    "ID": 1000
+  },
+  {
+    "Mile": "WK09+659.25",
+    "LineSN": 226,
+    "temperature": 29.0,
+    "ID": 1001
+  },
+  {
+    "Mile": "WK09+665.5",
+    "LineSN": 225,
+    "temperature": 30.0,
+    "ID": 1002
+  },
+  {
+    "Mile": "WK09+671.75",
+    "LineSN": 224,
+    "temperature": 22.5,
+    "ID": 1003
+  },
+  {
+    "Mile": "WK09+678",
+    "LineSN": 223,
+    "temperature": 28.1,
+    "ID": 1004
+  },
+  {
+    "Mile": "WK09+684.25",
+    "LineSN": 222,
+    "temperature": 26.8,
+    "ID": 1005
+  },
+  {
+    "Mile": "WK09+690.5",
+    "LineSN": 221,
+    "temperature": 22.6,
+    "ID": 1006
+  },
+  {
+    "Mile": "WK09+696.75",
+    "LineSN": 220,
+    "temperature": 29.5,
+    "ID": 1007
+  },
+  {
+    "Mile": "WK09+703",
+    "LineSN": 219,
+    "temperature": 23.7,
+    "ID": 1008
+  },
+  {
+    "Mile": "WK09+709.25",
+    "LineSN": 218,
+    "temperature": 21.4,
+    "ID": 1009
+  },
+  {
+    "Mile": "WK09+715.5",
+    "LineSN": 217,
+    "temperature": 29.7,
+    "ID": 1010
+  },
+  {
+    "Mile": "WK09+721.75",
+    "LineSN": 216,
+    "temperature": 26.6,
+    "ID": 1011
+  },
+  {
+    "Mile": "WK09+728",
+    "LineSN": 215,
+    "temperature": 22.8,
+    "ID": 1012
+  },
+  {
+    "Mile": "WK09+734.25",
+    "LineSN": 214,
+    "temperature": 21.2,
+    "ID": 1013
+  },
+  {
+    "Mile": "WK09+740.5",
+    "LineSN": 213,
+    "temperature": 21.2,
+    "ID": 1014
+  },
+  {
+    "Mile": "WK09+746.75",
+    "LineSN": 212,
+    "temperature": 27.4,
+    "ID": 1015
+  },
+  {
+    "Mile": "WK09+753",
+    "LineSN": 211,
+    "temperature": 25.3,
+    "ID": 1016
+  },
+  {
+    "Mile": "WK09+759.25",
+    "LineSN": 200,
+    "temperature": 25.8,
+    "ID": 1017
+  },
+  {
+    "Mile": "WK09+765.5",
+    "LineSN": 199,
+    "temperature": 27.6,
+    "ID": 1018
+  },
+  {
+    "Mile": "WK09+771.75",
+    "LineSN": 198,
+    "temperature": 28.5,
+    "ID": 1019
+  },
+  {
+    "Mile": "WK09+778",
+    "LineSN": 197,
+    "temperature": 24.6,
+    "ID": 1020
+  },
+  {
+    "Mile": "WK09+784.25",
+    "LineSN": 196,
+    "temperature": 26.5,
+    "ID": 1021
+  },
+  {
+    "Mile": "WK09+790.5",
+    "LineSN": 195,
+    "temperature": 20.9,
+    "ID": 1022
+  },
+  {
+    "Mile": "WK09+796.75",
+    "LineSN": 194,
+    "temperature": 23.6,
+    "ID": 1023
+  },
+  {
+    "Mile": "WK09+803",
+    "LineSN": 193,
+    "temperature": 28.6,
+    "ID": 1024
+  },
+  {
+    "Mile": "WK09+809.25",
+    "LineSN": 192,
+    "temperature": 23.1,
+    "ID": 1025
+  },
+  {
+    "Mile": "WK09+815.5",
+    "LineSN": 191,
+    "temperature": 28.4,
+    "ID": 1026
+  },
+  {
+    "Mile": "WK09+821.75",
+    "LineSN": 190,
+    "temperature": 28.5,
+    "ID": 1027
+  },
+  {
+    "Mile": "WK09+828",
+    "LineSN": 189,
+    "temperature": 21.2,
+    "ID": 1028
+  },
+  {
+    "Mile": "WK09+834.25",
+    "LineSN": 188,
+    "temperature": 20.6,
+    "ID": 1029
+  },
+  {
+    "Mile": "WK09+840.5",
+    "LineSN": 187,
+    "temperature": 29.7,
+    "ID": 1030
+  },
+  {
+    "Mile": "WK09+846.75",
+    "LineSN": 186,
+    "temperature": 24.2,
+    "ID": 1031
+  },
+  {
+    "Mile": "WK09+853",
+    "LineSN": 185,
+    "temperature": 26.8,
+    "ID": 1032
+  },
+  {
+    "Mile": "WK09+859.25",
+    "LineSN": 184,
+    "temperature": 25.2,
+    "ID": 1033
+  },
+  {
+    "Mile": "WK09+865.5",
+    "LineSN": 183,
+    "temperature": 26.3,
+    "ID": 1034
+  },
+  {
+    "Mile": "WK09+871.75",
+    "LineSN": 182,
+    "temperature": 20.3,
+    "ID": 1035
+  },
+  {
+    "Mile": "WK09+878",
+    "LineSN": 181,
+    "temperature": 21.3,
+    "ID": 1036
+  },
+  {
+    "Mile": "WK09+884.25",
+    "LineSN": 170,
+    "temperature": 24.6,
+    "ID": 1037
+  },
+  {
+    "Mile": "WK09+890.5",
+    "LineSN": 169,
+    "temperature": 26.0,
+    "ID": 1038
+  },
+  {
+    "Mile": "WK09+896.75",
+    "LineSN": 168,
+    "temperature": 25.5,
+    "ID": 1039
+  },
+  {
+    "Mile": "WK09+903",
+    "LineSN": 167,
+    "temperature": 24.0,
+    "ID": 1040
+  },
+  {
+    "Mile": "WK09+909.25",
+    "LineSN": 166,
+    "temperature": 27.0,
+    "ID": 1041
+  },
+  {
+    "Mile": "WK09+915.5",
+    "LineSN": 165,
+    "temperature": 20.3,
+    "ID": 1042
+  },
+  {
+    "Mile": "WK09+921.75",
+    "LineSN": 164,
+    "temperature": 23.4,
+    "ID": 1043
+  },
+  {
+    "Mile": "WK09+928",
+    "LineSN": 163,
+    "temperature": 20.1,
+    "ID": 1044
+  },
+  {
+    "Mile": "WK09+934.25",
+    "LineSN": 162,
+    "temperature": 24.9,
+    "ID": 1045
+  },
+  {
+    "Mile": "WK09+940.5",
+    "LineSN": 161,
+    "temperature": 29.6,
+    "ID": 1046
+  },
+  {
+    "Mile": "WK09+946.75",
+    "LineSN": 160,
+    "temperature": 29.9,
+    "ID": 1047
+  },
+  {
+    "Mile": "WK09+953",
+    "LineSN": 159,
+    "temperature": 27.4,
+    "ID": 1048
+  },
+  {
+    "Mile": "WK09+959.25",
+    "LineSN": 158,
+    "temperature": 28.6,
+    "ID": 1049
+  },
+  {
+    "Mile": "WK09+965.5",
+    "LineSN": 157,
+    "temperature": 23.9,
+    "ID": 1050
+  },
+  {
+    "Mile": "WK09+971.75",
+    "LineSN": 156,
+    "temperature": 25.3,
+    "ID": 1051
+  },
+  {
+    "Mile": "WK09+978",
+    "LineSN": 155,
+    "temperature": 25.0,
+    "ID": 1052
+  },
+  {
+    "Mile": "WK09+984.25",
+    "LineSN": 154,
+    "temperature": 22.9,
+    "ID": 1053
+  },
+  {
+    "Mile": "WK09+990.5",
+    "LineSN": 153,
+    "temperature": 28.3,
+    "ID": 1054
+  },
+  {
+    "Mile": "WK09+996.75",
+    "LineSN": 152,
+    "temperature": 28.6,
+    "ID": 1055
+  },
+  {
+    "Mile": "WK10+003",
+    "LineSN": 151,
+    "temperature": 23.0,
+    "ID": 1056
+  },
+  {
+    "Mile": "WK10+9.25",
+    "LineSN": 140,
+    "temperature": 27.4,
+    "ID": 1057
+  },
+  {
+    "Mile": "WK10+15.5",
+    "LineSN": 139,
+    "temperature": 29.3,
+    "ID": 1058
+  },
+  {
+    "Mile": "WK10+21.75",
+    "LineSN": 138,
+    "temperature": 28.0,
+    "ID": 1059
+  },
+  {
+    "Mile": "WK10+28",
+    "LineSN": 137,
+    "temperature": 25.4,
+    "ID": 1060
+  },
+  {
+    "Mile": "WK10+34.25",
+    "LineSN": 136,
+    "temperature": 29.5,
+    "ID": 1061
+  },
+  {
+    "Mile": "WK10+40.5",
+    "LineSN": 135,
+    "temperature": 22.5,
+    "ID": 1062
+  },
+  {
+    "Mile": "WK10+46.75",
+    "LineSN": 134,
+    "temperature": 25.1,
+    "ID": 1063
+  },
+  {
+    "Mile": "WK10+53",
+    "LineSN": 133,
+    "temperature": 23.0,
+    "ID": 1064
+  },
+  {
+    "Mile": "WK10+59.25",
+    "LineSN": 132,
+    "temperature": 24.0,
+    "ID": 1065
+  },
+  {
+    "Mile": "WK10+65.5",
+    "LineSN": 131,
+    "temperature": 29.1,
+    "ID": 1066
+  },
+  {
+    "Mile": "WK10+71.75",
+    "LineSN": 130,
+    "temperature": 23.5,
+    "ID": 1067
+  },
+  {
+    "Mile": "WK10+78",
+    "LineSN": 129,
+    "temperature": 27.9,
+    "ID": 1068
+  },
+  {
+    "Mile": "WK10+84.25",
+    "LineSN": 128,
+    "temperature": 25.3,
+    "ID": 1069
+  },
+  {
+    "Mile": "WK10+90.5",
+    "LineSN": 127,
+    "temperature": 28.6,
+    "ID": 1070
+  },
+  {
+    "Mile": "WK10+96.75",
+    "LineSN": 126,
+    "temperature": 26.8,
+    "ID": 1071
+  },
+  {
+    "Mile": "WK10+103",
+    "LineSN": 125,
+    "temperature": 23.4,
+    "ID": 1072
+  },
+  {
+    "Mile": "WK10+109.25",
+    "LineSN": 124,
+    "temperature": 28.5,
+    "ID": 1073
+  },
+  {
+    "Mile": "WK10+115.5",
+    "LineSN": 123,
+    "temperature": 28.3,
+    "ID": 1074
+  },
+  {
+    "Mile": "WK10+121.75",
+    "LineSN": 122,
+    "temperature": 23.9,
+    "ID": 1075
+  },
+  {
+    "Mile": "WK10+128",
+    "LineSN": 121,
+    "temperature": 24.5,
+    "ID": 1076
+  },
+  {
+    "Mile": "WK10+134.25",
+    "LineSN": 110,
+    "temperature": 28.8,
+    "ID": 1077
+  },
+  {
+    "Mile": "WK10+140.5",
+    "LineSN": 109,
+    "temperature": 25.2,
+    "ID": 1078
+  },
+  {
+    "Mile": "WK10+146.75",
+    "LineSN": 108,
+    "temperature": 20.1,
+    "ID": 1079
+  },
+  {
+    "Mile": "WK10+153",
+    "LineSN": 107,
+    "temperature": 20.4,
+    "ID": 1080
+  },
+  {
+    "Mile": "WK10+159.25",
+    "LineSN": 106,
+    "temperature": 22.9,
+    "ID": 1081
+  },
+  {
+    "Mile": "WK10+165.5",
+    "LineSN": 105,
+    "temperature": 24.6,
+    "ID": 1082
+  },
+  {
+    "Mile": "WK10+171.75",
+    "LineSN": 104,
+    "temperature": 27.0,
+    "ID": 1083
+  },
+  {
+    "Mile": "WK10+178",
+    "LineSN": 103,
+    "temperature": 29.9,
+    "ID": 1084
+  },
+  {
+    "Mile": "WK10+184.25",
+    "LineSN": 102,
+    "temperature": 27.8,
+    "ID": 1085
+  },
+  {
+    "Mile": "WK10+190.5",
+    "LineSN": 101,
+    "temperature": 20.9,
+    "ID": 1086
+  },
+  {
+    "Mile": "WK10+196.75",
+    "LineSN": 100,
+    "temperature": 28.7,
+    "ID": 1087
+  },
+  {
+    "Mile": "WK10+203",
+    "LineSN": 99,
+    "temperature": 28.5,
+    "ID": 1088
+  },
+  {
+    "Mile": "WK10+209.25",
+    "LineSN": 98,
+    "temperature": 26.3,
+    "ID": 1089
+  },
+  {
+    "Mile": "WK10+215.5",
+    "LineSN": 97,
+    "temperature": 20.9,
+    "ID": 1090
+  },
+  {
+    "Mile": "WK10+221.75",
+    "LineSN": 96,
+    "temperature": 22.3,
+    "ID": 1091
+  },
+  {
+    "Mile": "WK10+228",
+    "LineSN": 95,
+    "temperature": 23.1,
+    "ID": 1092
+  },
+  {
+    "Mile": "WK10+234.25",
+    "LineSN": 94,
+    "temperature": 26.1,
+    "ID": 1093
+  },
+  {
+    "Mile": "WK10+240.5",
+    "LineSN": 93,
+    "temperature": 26.9,
+    "ID": 1094
+  },
+  {
+    "Mile": "WK10+246.75",
+    "LineSN": 92,
+    "temperature": 26.1,
+    "ID": 1095
+  },
+  {
+    "Mile": "WK10+253",
+    "LineSN": 91,
+    "temperature": 21.1,
+    "ID": 1096
+  },
+  {
+    "Mile": "WK10+259.25",
+    "LineSN": 80,
+    "temperature": 24.9,
+    "ID": 1097
+  },
+  {
+    "Mile": "WK10+265.5",
+    "LineSN": 79,
+    "temperature": 22.5,
+    "ID": 1098
+  },
+  {
+    "Mile": "WK10+271.75",
+    "LineSN": 78,
+    "temperature": 28.1,
+    "ID": 1099
+  },
+  {
+    "Mile": "WK10+278",
+    "LineSN": 77,
+    "temperature": 22.9,
+    "ID": 1100
+  },
+  {
+    "Mile": "WK10+284.25",
+    "LineSN": 76,
+    "temperature": 27.8,
+    "ID": 1101
+  },
+  {
+    "Mile": "WK10+290.5",
+    "LineSN": 75,
+    "temperature": 26.2,
+    "ID": 1102
+  },
+  {
+    "Mile": "WK10+296.75",
+    "LineSN": 74,
+    "temperature": 26.7,
+    "ID": 1103
+  },
+  {
+    "Mile": "WK10+303",
+    "LineSN": 73,
+    "temperature": 25.3,
+    "ID": 1104
+  },
+  {
+    "Mile": "WK10+309.25",
+    "LineSN": 72,
+    "temperature": 29.7,
+    "ID": 1105
+  },
+  {
+    "Mile": "WK10+315.5",
+    "LineSN": 71,
+    "temperature": 27.7,
+    "ID": 1106
+  },
+  {
+    "Mile": "WK10+321.75",
+    "LineSN": 70,
+    "temperature": 23.9,
+    "ID": 1107
+  },
+  {
+    "Mile": "WK10+328",
+    "LineSN": 69,
+    "temperature": 23.4,
+    "ID": 1108
+  },
+  {
+    "Mile": "WK10+334.25",
+    "LineSN": 68,
+    "temperature": 22.0,
+    "ID": 1109
+  },
+  {
+    "Mile": "WK10+340.5",
+    "LineSN": 67,
+    "temperature": 24.5,
+    "ID": 1110
+  },
+  {
+    "Mile": "WK10+346.75",
+    "LineSN": 66,
+    "temperature": 27.5,
+    "ID": 1111
+  },
+  {
+    "Mile": "WK10+353",
+    "LineSN": 65,
+    "temperature": 21.2,
+    "ID": 1112
+  },
+  {
+    "Mile": "WK10+359.25",
+    "LineSN": 64,
+    "temperature": 29.9,
+    "ID": 1113
+  },
+  {
+    "Mile": "WK10+365.5",
+    "LineSN": 63,
+    "temperature": 21.1,
+    "ID": 1114
+  },
+  {
+    "Mile": "WK10+371.75",
+    "LineSN": 62,
+    "temperature": 22.3,
+    "ID": 1115
+  },
+  {
+    "Mile": "WK10+378",
+    "LineSN": 61,
+    "temperature": 21.4,
+    "ID": 1116
+  },
+  {
+    "Mile": "WK10+384.25",
+    "LineSN": 50,
+    "temperature": 29.8,
+    "ID": 1117
+  },
+  {
+    "Mile": "WK10+390.5",
+    "LineSN": 49,
+    "temperature": 26.1,
+    "ID": 1118
+  },
+  {
+    "Mile": "WK10+396.75",
+    "LineSN": 48,
+    "temperature": 28.1,
+    "ID": 1119
+  },
+  {
+    "Mile": "WK10+403",
+    "LineSN": 47,
+    "temperature": 23.8,
+    "ID": 1120
+  },
+  {
+    "Mile": "WK10+409.25",
+    "LineSN": 46,
+    "temperature": 27.5,
+    "ID": 1121
+  },
+  {
+    "Mile": "WK10+415.5",
+    "LineSN": 45,
+    "temperature": 29.0,
+    "ID": 1122
+  },
+  {
+    "Mile": "WK10+421.75",
+    "LineSN": 44,
+    "temperature": 27.2,
+    "ID": 1123
+  },
+  {
+    "Mile": "WK10+428",
+    "LineSN": 43,
+    "temperature": 21.5,
+    "ID": 1124
+  },
+  {
+    "Mile": "WK10+434.25",
+    "LineSN": 42,
+    "temperature": 25.7,
+    "ID": 1125
+  },
+  {
+    "Mile": "WK10+440.5",
+    "LineSN": 41,
+    "temperature": 20.8,
+    "ID": 1126
+  },
+  {
+    "Mile": "WK10+446.75",
+    "LineSN": 40,
+    "temperature": 22.7,
+    "ID": 1127
+  },
+  {
+    "Mile": "WK10+453",
+    "LineSN": 39,
+    "temperature": 27.8,
+    "ID": 1128
+  },
+  {
+    "Mile": "WK10+459.25",
+    "LineSN": 38,
+    "temperature": 22.5,
+    "ID": 1129
+  },
+  {
+    "Mile": "WK10+465.5",
+    "LineSN": 37,
+    "temperature": 22.6,
+    "ID": 1130
+  },
+  {
+    "Mile": "WK10+471.75",
+    "LineSN": 36,
+    "temperature": 20.1,
+    "ID": 1131
+  },
+  {
+    "Mile": "WK10+478",
+    "LineSN": 35,
+    "temperature": 23.6,
+    "ID": 1132
+  },
+  {
+    "Mile": "WK10+484.25",
+    "LineSN": 34,
+    "temperature": 20.8,
+    "ID": 1133
+  },
+  {
+    "Mile": "WK10+490.5",
+    "LineSN": 33,
+    "temperature": 24.6,
+    "ID": 1134
+  },
+  {
+    "Mile": "WK10+496.75",
+    "LineSN": 32,
+    "temperature": 21.4,
+    "ID": 1135
+  },
+  {
+    "Mile": "WK10+503",
+    "LineSN": 31,
+    "temperature": 25.1,
+    "ID": 1136
+  },
+  {
+    "Mile": "WK10+509.25",
+    "LineSN": 20,
+    "temperature": 23.4,
+    "ID": 1137
+  },
+  {
+    "Mile": "WK10+515.5",
+    "LineSN": 19,
+    "temperature": 20.4,
+    "ID": 1138
+  },
+  {
+    "Mile": "WK10+521.75",
+    "LineSN": 18,
+    "temperature": 25.4,
+    "ID": 1139
+  },
+  {
+    "Mile": "WK10+528",
+    "LineSN": 17,
+    "temperature": 20.3,
+    "ID": 1140
+  },
+  {
+    "Mile": "WK10+534.25",
+    "LineSN": 16,
+    "temperature": 21.5,
+    "ID": 1141
+  },
+  {
+    "Mile": "WK10+540.5",
+    "LineSN": 15,
+    "temperature": 29.4,
+    "ID": 1142
+  },
+  {
+    "Mile": "WK10+546.75",
+    "LineSN": 14,
+    "temperature": 23.6,
+    "ID": 1143
+  },
+  {
+    "Mile": "WK10+553",
+    "LineSN": 13,
+    "temperature": 29.2,
+    "ID": 1144
+  },
+  {
+    "Mile": "WK10+559.25",
+    "LineSN": 12,
+    "temperature": 28.8,
+    "ID": 1145
+  },
+  {
+    "Mile": "WK10+565.5",
+    "LineSN": 11,
+    "temperature": 25.8,
+    "ID": 1146
+  },
+  {
+    "Mile": "WK10+571.75",
+    "LineSN": 10,
+    "temperature": 22.3,
+    "ID": 1147
+  },
+  {
+    "Mile": "WK10+578",
+    "LineSN": 9,
+    "temperature": 21.8,
+    "ID": 1148
+  },
+  {
+    "Mile": "WK10+584.25",
+    "LineSN": 8,
+    "temperature": 23.7,
+    "ID": 1149
+  },
+  {
+    "Mile": "WK10+590.5",
+    "LineSN": 7,
+    "temperature": 23.1,
+    "ID": 1150
+  },
+  {
+    "Mile": "WK10+596.75",
+    "LineSN": 6,
+    "temperature": 24.0,
+    "ID": 1151
+  },
+  {
+    "Mile": "WK10+603",
+    "LineSN": 5,
+    "temperature": 22.9,
+    "ID": 1152
+  },
+  {
+    "Mile": "WK10+609.25",
+    "LineSN": 4,
+    "temperature": 23.7,
+    "ID": 1153
+  },
+  {
+    "Mile": "WK10+615.5",
+    "LineSN": 3,
+    "temperature": 27.1,
+    "ID": 1154
+  },
+  {
+    "Mile": "WK10+621.75",
+    "LineSN": 2,
+    "temperature": 24.2,
+    "ID": 1155
+  },
+  {
+    "Mile": "WK10+628",
+    "LineSN": 1,
+    "temperature": 25.5,
+    "ID": 1156
+  }
+]

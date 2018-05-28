@@ -6,6 +6,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 
 import App from './App'
 import Axios from 'axios'
+import $ from 'jquery'
 
 // 引入echarts
 import echarts from 'echarts'

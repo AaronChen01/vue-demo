@@ -81,6 +81,7 @@ var stompClient = null;
  * 使用showResponse()函数将获取的数据显示到图标上：*/
 function connectServer() {
 
+    console.log("connect Server.");
     // 连接SockJS 的endpoint 名称为“/endpointWisely”
     var socket = new SockJS('/dll/endpointWisely');
     // 使用STOMP 子协议的WebSocket 客户端
